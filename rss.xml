@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>양산지역 뉴스 통합 피드</title>
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 30 Sep 2025 08:58:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 09:02:03 GMT</lastBuildDate>
+    <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title><![CDATA["역시 이장호 전 의원", 흔들림 없는 나눔봉사 눈길]]></title>
       <link>http://www.ysnewspark.com/news/articleView.html?idxno=15873</link>
@@ -18,13 +19,13 @@
     </item>
     <item>
       <title><![CDATA[뻥이야 뻥! 나시장의 뻥?]]></title>
-      <link>http://www.oratory.co.kr/news/view.html?section=86&category=98&no=2010</link>
+      <link>http://www.oratory.co.kr/news/view.html?section=86&amp;category=98&amp;no=2010</link>
       <pubDate>Mon, 29 Sep 2025 09:47:29 GMT</pubDate>
       <description><![CDATA[뻥이야 뻥! 나시장의 뻥?   나동연 양산시장은 29일 오전 양산시청 프레스센터에서 기자회견 열고 ‘증산지구 도시개발사업’ 관련, 최종 
 민간참여자로 제일건설 컨소시엄이 선정되었다고 발표했다.   증산지구 도시개발사업은 물금읍 증산리 559-5번지 일대 약 80만㎡ 부지에 
 총사업비 약 8천억원을 들여 복합도시를 조성한다는 개발사업이다.   시는 연내에 우선협상대상자와 협약을 체결하고 사업시행은 
 특수목적법인(SPC)이 맡는다고 밝혔다.   특수목적법인 지분은 양산시가 50.1％, 민간 사업자...]]></description>
-      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=86&category=98&no=2010</guid>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=86&amp;category=98&amp;no=2010</guid>
     </item>
     <item>
       <title><![CDATA[울산항만공사、 울산항 국내 최초 드라이벌크선에 그린메탄올 급유 성공]]></title>
@@ -42,33 +43,33 @@
     </item>
     <item>
       <title><![CDATA[양산교육지원청, 학교회계 현장에서 답을 찾다!!]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=285&idx=43797</link>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=285&amp;idx=43797</link>
       <pubDate>Sun, 28 Sep 2025 23:51:12 GMT</pubDate>
       <description><![CDATA[양산교육지원청(교육장 최은지)은 지난 26일 경상남도양산교육지원청 1층 대강당에서 관내 각급학교 회계담당자 100여 명 대상으로]]></description>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=285&idx=43797</guid>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=285&amp;idx=43797</guid>
     </item>
     <item>
       <title><![CDATA[시나브로복지관, 『부모와 함께하는 언어 발달 부모교육』 성료]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&idx=43796</link>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43796</link>
       <pubDate>Sun, 28 Sep 2025 23:45:28 GMT</pubDate>
       <description><![CDATA[시나브로복지관(관장 고영찬)은 지난 9월 25일 오전 10시부터 12시까지 양산비즈니스센터 세미나실 제2실에서 '부모와 함께하는 언어 
 발달 부모교육'을 성공적으로 개최했다.]]></description>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&idx=43796</guid>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43796</guid>
     </item>
     <item>
       <title><![CDATA[웅상종합사회복지관, 아동건강권 증진을 위한 학교폭력예방캠페인 및 신체활동프로그램 실시]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=317&idx=43795</link>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=317&amp;idx=43795</link>
       <pubDate>Sun, 28 Sep 2025 23:41:20 GMT</pubDate>
       <description><![CDATA[웅상종합사회복지관(관장 오경)에서는 아동의 건강권 증진과 안전한 학교문화 조성을 위해 지난 9월 17일 백동초등학교에서 4~6학년 학생 
 90여명을 대상으로 ‘학교폭력예방캠페인 및 신체활동프로그램’을 진행했다고 밝혔다.]]></description>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=317&idx=43795</guid>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=317&amp;idx=43795</guid>
     </item>
     <item>
       <title><![CDATA[웅상노인복지관, 6·25 참전유공자 대상,추석 명절 선물 전달식 진행]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=318&idx=43794</link>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=318&amp;idx=43794</link>
       <pubDate>Sun, 28 Sep 2025 23:36:50 GMT</pubDate>
       <description><![CDATA[웅상노인복지관(관장 이명진)은 지난 25일, 6·25 참전유공자분들을 대상으로 추석 명절 선물 전달식을 진행했다.]]></description>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=318&idx=43794</guid>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=318&amp;idx=43794</guid>
     </item>
     <item>
       <title><![CDATA[양산시정, 시민 10명 중 6명 긍정 평가]]></title>
@@ -515,13 +516,13 @@
     </item>
     <item>
       <title><![CDATA[양산의 동정(動靜)/존경받는 기업인 서영옥 회장, 한국수필 수필가 등단]]></title>
-      <link>http://www.oratory.co.kr/news/view.html?section=91&category=92&no=2009</link>
+      <link>http://www.oratory.co.kr/news/view.html?section=91&amp;category=92&amp;no=2009</link>
       <pubDate>Sun, 28 Sep 2025 07:15:06 GMT</pubDate>
       <description><![CDATA[●양산의 존경받는 기업인 서영옥회장 한국수필 수필가 등단● -(주)화인테크놀리지 대표이사 -공학박사 -어곡지방산업단지관리공단 이사장 
 -아너 소사이어티 회원 -경남 메세나 부회장 -국립부경대학교 총동창회장 2회 역임 -2021년 존경받는 기업인 선정(중소벤처기업부) 
 -금탑산업훈장 수훈 -아름다운 납세자 선정 ❍사)한국수필가협회가 발행하는 월간문예지 '한국수필'에서 2편의 작품이 신인상 당선작으로 
 선정되어 수필가로 등단하였음을 축하드립니다. #서영옥수필가 #한국수필가협회 #신인상당선 (선량한 시민...]]></description>
-      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=91&category=92&no=2009</guid>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=91&amp;category=92&amp;no=2009</guid>
     </item>
     <item>
       <title><![CDATA[조국혁신당 양산위원장, 심경숙 전 시의회 부의장]]></title>
@@ -556,13 +557,13 @@
     </item>
     <item>
       <title><![CDATA[(양산시 보도뉴스)양산시, 국가정보시스템 장애 긴급 대응체계 가동]]></title>
-      <link>http://www.oratory.co.kr/news/view.html?section=1&category=3&no=2008</link>
+      <link>http://www.oratory.co.kr/news/view.html?section=1&amp;category=3&amp;no=2008</link>
       <pubDate>Sat, 27 Sep 2025 09:43:00 GMT</pubDate>
       <description><![CDATA[양산시, 국가정보시스템 장애 긴급 대응체계 가동- 나동연 시장, 27일 재난안전대책본부 상황실에서 긴급 대책회의 -양산시는 
 국가정보자원관리원 행정정보시스템 화재로 중앙부처 일부 행정시스템이 중단됨에 따라 시민불편을 최소화하기 위한 긴급 대응체계를 
 가동했습니다.   나동연 양산시장은 27일 오후 재난안전대책본부 상황실에서 긴급 대책회의를 열고 국가정보시스템 중단에 따른 분야별 
 문제점 및 피해상황을 신속하게 파악하고 대응 방안을 논의했습니다.   관리자 공무원 40여명이 참석한 이날 대책회의에서는...]]></description>
-      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&category=3&no=2008</guid>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&amp;category=3&amp;no=2008</guid>
     </item>
     <item>
       <title><![CDATA[이재영 위원장, 양산발전·경남 현안해결 '관심요청']]></title>
@@ -576,23 +577,23 @@
     </item>
     <item>
       <title><![CDATA[(양산시 보도뉴스)삼성동 바르게살기운동위원회, 추석맞이 나눔 실천]]></title>
-      <link>http://www.oratory.co.kr/news/view.html?section=1&category=5&no=2007</link>
+      <link>http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=2007</link>
       <pubDate>Fri, 26 Sep 2025 11:00:18 GMT</pubDate>
       <description><![CDATA[성동 바르게살기운동위원회, 추석맞이 나눔 실천저소득 가정·독거 어르신 찾아가는 명절 봉사 -양산시 삼성동 바르게살기운동위원회(회장 
 정영주)는 추석 명절을 앞두고 관내 저소득 가정과 독거 어르신들에게 생필품 50세트를 전달하며 따뜻한 나눔을 실천했다고 밝혔습니다.   
 이번 행사는 단순한 물품 기부에 그치지 않고 직접 가정을 방문해 안부를 살피고 이야기를 나누며 명절을 홀로 보내는 어르신들과 어려운 
 가정에 큰 위로와 힘이 되고자 했습니다.   또 위원회에서는 매년 명절마다 꾸준히 후원 활동을 이어오...]]></description>
-      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&category=5&no=2007</guid>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=2007</guid>
     </item>
     <item>
       <title><![CDATA[(부울경메가시티뉴스/양산YMCA)기아오토큐 허석규 대표,양산YMCA 청소년 동아리 육성 위해 720만원 후원]]></title>
-      <link>http://www.oratory.co.kr/news/view.html?section=115&category=118&no=2006</link>
+      <link>http://www.oratory.co.kr/news/view.html?section=115&amp;category=118&amp;no=2006</link>
       <pubDate>Fri, 26 Sep 2025 10:40:45 GMT</pubDate>
       <description><![CDATA[기아오토큐 허석규 대표, 양산YMCA 청소년 동아리 육성 위해 720만원 후원양산YMCA는 지난 9월 25일, 기아 부산사업소 소속 
 명동점 기아오토큐 허석규 대표로부터 청소년 동아리 육성사업 지원을 위한 후원금 7,200,000원을 전달받았다고 전해왔습니다.   
 허석규 대표는 매년 양산YMCA에 꾸준히 후원을 이어오며, 지역 청소년들이 건강하게 성장할 수 있도록 지원해 왔습니다.   이번 후원금 
 역시 양산 지역 청소년들의 자발적 동아리 활동과 리더십 성장을 지원하는 데 사용될 예정입니다.   허석규 대표는 ...]]></description>
-      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=115&category=118&no=2006</guid>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=115&amp;category=118&amp;no=2006</guid>
     </item>
     <item>
       <title><![CDATA[[갤러리휴] 한국서화협회 양산지회 첫 정기전 ‘이팝예술제’]]></title>
@@ -603,21 +604,21 @@
     </item>
     <item>
       <title><![CDATA[제11회 평산동 한마당 잔치, 10월 19일 열린다]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=333&idx=43793</link>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=333&amp;idx=43793</link>
       <pubDate>Fri, 26 Sep 2025 07:20:55 GMT</pubDate>
       <description><![CDATA[[양산] 평산동 체육회(회장 박성복)는 오는 10월 19일 오전 10시부터 오후 3시까지 평산음악공원(선우2차 앞)에서 ‘제11회 
 평산동 한마당 잔치’를 연다. 개회식은 낮 12시에 진행된다.]]></description>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=333&idx=43793</guid>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=333&amp;idx=43793</guid>
     </item>
     <item>
       <title><![CDATA[(부울경메가시티뉴스/경남도의회)박인 부의장, 추석 명절 사회복지시설 위문]]></title>
-      <link>http://www.oratory.co.kr/news/view.html?section=115&category=118&no=2005</link>
+      <link>http://www.oratory.co.kr/news/view.html?section=115&amp;category=118&amp;no=2005</link>
       <pubDate>Fri, 26 Sep 2025 04:14:58 GMT</pubDate>
       <description><![CDATA[경상남도의회 박인 부의장, 추석 명절 사회복지시설 위문'노인 및 장애인복지시설 방문하여 격려, 추석 온정 나눠'   경상남도의회 박인 
 부의장이 추석 명절을 앞두고 지난 25일 양산 지역 사회복지시설을 찾아 따뜻한 정을 나눴습니다.   박 부의장은 이날 노인요양원을 
 시작으로 웅상노인복지관, 양산시직업재활센터를 차례로 방문해 각 시설의 이용자 및 종사자들과 반갑게 인사를 나누고 정성껏 준비한 위문품을 
 전달했습니다.   노인요양원에서는 어르신들과 담소를 나누며 건강을 당부했고, 웅상노인복지관에...]]></description>
-      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=115&category=118&no=2005</guid>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=115&amp;category=118&amp;no=2005</guid>
     </item>
     <item>
       <title><![CDATA[울산항만공사, 감사원 협업 '울산항 적극행정 지원 설명회' 개최]]></title>
@@ -628,17 +629,17 @@
     </item>
     <item>
       <title><![CDATA[이경희 양산미술협회 회장 “아이들의 순수성, 그리고 양산의 예술을 말하다”]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=268&idx=43792</link>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=268&amp;idx=43792</link>
       <pubDate>Fri, 26 Sep 2025 01:17:33 GMT</pubDate>
       <description><![CDATA[양산미술협회 이경희 회장은 오랫동안 아이들과 함께 그림을 그려왔다. 그의 작품 세계는 30여 년간 이어온 아동미술 교육에서 출발한다.]]></description>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=268&idx=43792</guid>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=268&amp;idx=43792</guid>
     </item>
     <item>
       <title><![CDATA[김영희 양산문인협회 회장 “생활에서 길어 올린 글, 40년의 문학”]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=268&idx=43791</link>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=268&amp;idx=43791</link>
       <pubDate>Fri, 26 Sep 2025 01:17:07 GMT</pubDate>
       <description><![CDATA[“글쓰기는 제 삶을 정리해 준 힘이었습니다. 가성비로 따지면 제일 낮은 일이지만, 결국 저를 붙잡아 준 것이 글이었어요.”]]></description>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=268&idx=43791</guid>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=268&amp;idx=43791</guid>
     </item>
     <item>
       <title><![CDATA[양산, 학교 옆 송전선로 가장 많은 도시 ‘불명예’]]></title>
@@ -943,31 +944,31 @@
     </item>
     <item>
       <title><![CDATA[(칼럼)추석 연휴, 빈집은 도둑의 표적이 됩니다]]></title>
-      <link>http://www.oratory.co.kr/news/view.html?section=91&category=93&no=2004</link>
+      <link>http://www.oratory.co.kr/news/view.html?section=91&amp;category=93&amp;no=2004</link>
       <pubDate>Thu, 25 Sep 2025 09:57:18 GMT</pubDate>
       <description><![CDATA[“추석 연휴, 빈집은 도둑의 표적이 됩니다.”– 우리 집 지키는 작은 습관 -   칼럼니스트 : 물금지구대 경위 이수현   민족 최대 
 명절인 추석이 다가옵니다. 올해는 최장 연휴로 이어지면서 여행이나 귀향으로 장기간 집을 비우는 가정이 늘어날 것으로 예상됩니다. 즐거운 
 연휴 뒤, 혹여 빈집털이 피해가 남는다면 그 상실감은 이루 말할 수 없을 것입니다. 범죄예방은 경찰만의 몫이 아니라, 주민 모두의 작은 
 관심과 실천에서 시작됩니다.  첫째, 출입문과 창문 잠금은 기본입니다. 범죄자는 잠깐의 허술...]]></description>
-      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=91&category=93&no=2004</guid>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=91&amp;category=93&amp;no=2004</guid>
     </item>
     <item>
       <title><![CDATA[(양산시의회 보도뉴스)양산시의회, 추석 맞아 사회복지시설 위문 방문]]></title>
-      <link>http://www.oratory.co.kr/news/view.html?section=1&category=3&no=2003</link>
+      <link>http://www.oratory.co.kr/news/view.html?section=1&amp;category=3&amp;no=2003</link>
       <pubDate>Thu, 25 Sep 2025 05:57:25 GMT</pubDate>
       <description><![CDATA[양산시의회, 추석 맞아 사회복지시설 위문 방문   양산시의회(의장 곽종포)는 2025년 추석을 앞두고 지역 내 사회복지시설을 방문해 
 위문품을 전달하며 따뜻한 명절 나눔을 실천했다고 밝혀왔습니다.   이번 위문은 감사의집, 양산애육원, 양산요양원 등 관내 21개 
 사회복지시설을 대상으로 화장지, 물티슈, 세탁세제 등 생활 필수품을 전달하며 종사자들에게 따뜻한 위로와 격려를 전했습니다.   또한 
 시설 운영 상황을 살피고 건의 사항을 경청하는 뜻 깊은 시간도 가졌습니다.   곽종포 의장은 “명절을 ...]]></description>
-      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&category=3&no=2003</guid>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&amp;category=3&amp;no=2003</guid>
     </item>
     <item>
       <title><![CDATA[[성지순례 안내] 제15차 중국 구화산·황산 4일 단독 성지순례]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=332&idx=43789</link>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=332&amp;idx=43789</link>
       <pubDate>Thu, 25 Sep 2025 01:35:14 GMT</pubDate>
       <description><![CDATA[기도영험 도량 천성산 원효암(주지 지범 스님)은 오는 11월 11일부터 14일까지 3박 4일 일정으로 제15차 중국 구화산·황산 
 성지순례를 진행한다.]]></description>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=332&idx=43789</guid>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=332&amp;idx=43789</guid>
     </item>
     <item>
       <title><![CDATA[짐스코렘어학원, '김태오·이윤우·박시완' 대회 입상]]></title>
@@ -1013,51 +1014,51 @@
     </item>
     <item>
       <title><![CDATA[(양산시 보도뉴스)「십시일반(十匙一飯) 가게」 59호점 현판 전달]]></title>
-      <link>http://www.oratory.co.kr/news/view.html?section=1&category=5&no=2002</link>
+      <link>http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=2002</link>
       <pubDate>Wed, 24 Sep 2025 10:57:29 GMT</pubDate>
       <description><![CDATA[「십시일반(十匙一飯) 가게」 59호점 현판 전달   평산동지역사회보장협의체(공동위원장 이상진‧김상걸)는 지난 19일 
 ‘소담밀면감자탕(대표 김경임)’을 「십시일반(十匙一飯) 가게」 제59호점으로 지정하고, ‘이웃愛 행복나눔’ 현판을 전달했다고 
 밝혔습니다.   이번에 지정된 ‘소담밀면감자탕’은 평산동 먹자골목 내 위치한 음식점으로, 치자밀면과 감자탕을 주 메뉴로 하고 있습니다. 
   대표 김경임 씨는 “예전부터 어려운 이웃을 위해 기부를 이어왔는데, 이번에는 우리 동네 이웃들을 위한 나눔에...]]></description>
-      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&category=5&no=2002</guid>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=2002</guid>
     </item>
     <item>
       <title><![CDATA[(부울경메가시티뉴스/경남도의회)박인 부의장, 국회서 지역현안 해결 위해 법령 개정 촉구]]></title>
-      <link>http://www.oratory.co.kr/news/view.html?section=115&category=118&no=2001</link>
+      <link>http://www.oratory.co.kr/news/view.html?section=115&amp;category=118&amp;no=2001</link>
       <pubDate>Wed, 24 Sep 2025 08:06:29 GMT</pubDate>
       <description><![CDATA[경남도의회 박인 부의장, 국회서 지역현안 해결 위해 법령 개정 촉구 - 창원시 행정구 인구감소지역 지정 요구, 경남권 로스쿨 설치 등 
 제안 - 지방의회 건의안에 대해 국회의 실질적 회신 근거 마련 요청   경남도의회 박인 부의장은 24일 국회에서 열린 「국회-지방의회 
 라운드 테이블」에 참석해, 경남의 지역 현안 해소를 위해 목소리를 높이며 법령 개정과 제도 개선을 강력히 촉구했습니다.   박인 
 부의장은 ▲창원특례시 행정구를 인구감소지역 지정대상에 포함시키기 위한 법 개정, ▲경남권 법학전문대학원(로...]]></description>
-      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=115&category=118&no=2001</guid>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=115&amp;category=118&amp;no=2001</guid>
     </item>
     <item>
       <title><![CDATA[[여행人 탐방] “크루즈는 희로애락이다” – 양산 서창 첫 크루즈 Ranway 지사 연 임아란 지사장]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=262&idx=43788</link>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=262&amp;idx=43788</link>
       <pubDate>Wed, 24 Sep 2025 07:49:36 GMT</pubDate>
       <description><![CDATA[양산 서창에 첫 크루즈 전문 Ranway 여행사가 자리 잡았다.]]></description>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=262&idx=43788</guid>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=262&amp;idx=43788</guid>
     </item>
     <item>
       <title><![CDATA[94세 고령의 어르신, 재능 기부 “빛난다”]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&idx=43787</link>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43787</link>
       <pubDate>Wed, 24 Sep 2025 05:40:08 GMT</pubDate>
       <description><![CDATA[94세의 고령의 어르신이 기술을 발휘해 자택에서 손수 만든 베개를 판매한]]></description>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&idx=43787</guid>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43787</guid>
     </item>
     <item>
       <title><![CDATA[2024년 노인일자리 및 사회활동 지원사업 평가대회  7년 연속 수상]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=270&idx=43786</link>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=270&amp;idx=43786</link>
       <pubDate>Wed, 24 Sep 2025 05:34:45 GMT</pubDate>
       <description><![CDATA[양산노인일자리창출지원센터(센터장 손석남)는 보건복지부가 주최하는, 서울 웨스틴 조선]]></description>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=270&idx=43786</guid>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=270&amp;idx=43786</guid>
     </item>
     <item>
       <title><![CDATA[동원과기대, 스포츠재활학부 창업동아리 ‘밸런스 앤 무브’]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=272&idx=43785</link>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=272&amp;idx=43785</link>
       <pubDate>Tue, 23 Sep 2025 22:06:23 GMT</pubDate>
       <description><![CDATA[동원과학기술대학교 스포츠 재활학부 소속 창업동아리 ‘밸런스 앤 무브’ 팀이]]></description>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=272&idx=43785</guid>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=272&amp;idx=43785</guid>
     </item>
     <item>
       <title><![CDATA[[파크기고] '추석, 함께 살아가야 하는 탈북민 이웃들']]></title>
@@ -1082,62 +1083,62 @@ CEO세미나를 개최했다. 지난 23일 양산상의 5층 컨퍼런스홀에�
     </item>
     <item>
       <title><![CDATA[(양산시 보도뉴스)책으로 하나 되는 양산, 제10회 독서골든벨 참가자 모집]]></title>
-      <link>http://www.oratory.co.kr/news/view.html?section=1&category=5&no=2000</link>
+      <link>http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=2000</link>
       <pubDate>Tue, 23 Sep 2025 11:16:22 GMT</pubDate>
       <description><![CDATA[책으로 하나 되는 양산, 제10회 독서골든벨 참가자 모집- 최후의 1인을 향해 도전하라! 9월 23일부터 참가자 모집 
 시작-양산시립도서관은 ‘책으로 하나 되는 양산, 제10회 독서골든벨’행사를 오는 11월 8일, 웅상문화체육센터 실내체육관에서 개최한다고 
 밝혔습니다.   관내 초등학교 4~6학년 100명을 대상으로 9월 23일(화) 09시부터 양산시립도서관 누리집(홈페이지)에서 참가자 
 접수를 시작합니다.   올해로 10회를 맞이하는 독서골든벨은 관내 어린이들의 독서능력 향상과 독서 의욕을 고취 시키기 위해 마련한 
 행사...]]></description>
-      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&category=5&no=2000</guid>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=2000</guid>
     </item>
     <item>
       <title><![CDATA[(부울경메가시티뉴스/양산상공회의소)‘조윤범 바이올리니스트 초청’ CEO세미나 개최]]></title>
-      <link>http://www.oratory.co.kr/news/view.html?section=115&category=118&no=1999</link>
+      <link>http://www.oratory.co.kr/news/view.html?section=115&amp;category=118&amp;no=1999</link>
       <pubDate>Tue, 23 Sep 2025 08:47:49 GMT</pubDate>
       <description><![CDATA[양산상공회의소 ‘조윤범 바이올리니스트 초청’ CEO세미나 개최   양산상공회의소(회장 박창현)는 지난 23일(화), 5층 컨퍼런스홀에서 
 조윤범 바이올리니스트를 초청해,「조윤범의 파워 클래식]을 주제로 CEO세미나를 개최했습니다. 회원기업 대표 및 기관장 등 100여명이 
 참석한 가운데 열린 이날 CEO세미나에서 조윤범 바이올리니스트는 코로나 시기“공연이 취소되고 홀로 연주할 때도 음악은 멈추지 
 않았다.”는 무대 경험을 언급하면서,“멈추지 않는 음악처럼 기업경영과 예술은 위기 속에서도 버티는 공통점이 있다.”고 ...]]></description>
-      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=115&category=118&no=1999</guid>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=115&amp;category=118&amp;no=1999</guid>
     </item>
     <item>
       <title><![CDATA[웅상선 광역철도,  지상철을 지하철로 변경하자는 여론]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=260&idx=43784</link>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=260&amp;idx=43784</link>
       <pubDate>Tue, 23 Sep 2025 03:06:18 GMT</pubDate>
       <description><![CDATA[웅상발전협의회는 지난 12일 오후 2시 웅상문화체육센터에서 광역철도 웅상선 건설사업의 조속한 추진을 위한 시민 결의대회를 열었다.]]></description>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=260&idx=43784</guid>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=260&amp;idx=43784</guid>
     </item>
     <item>
       <title><![CDATA[물건너 가는 덕계상설시장 천장 교체]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=260&idx=43783</link>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=260&amp;idx=43783</link>
       <pubDate>Tue, 23 Sep 2025 02:44:07 GMT</pubDate>
       <description><![CDATA[덕계상설시장 시설 현대화사업인 내부 천장 교체 공사금 15억이 책정됐으나 시장 상인들의 의견을 일치를 못해 물 건너갈 지경이다.]]></description>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=260&idx=43783</guid>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=260&amp;idx=43783</guid>
     </item>
     <item>
       <title><![CDATA[뒤틀린 한국의료, 웅상 비극...˝민간병원 넘어설 공공병원 필요˝]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&idx=43782</link>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43782</link>
       <pubDate>Tue, 23 Sep 2025 01:09:40 GMT</pubDate>
       <description><![CDATA[웅상중앙병원 사태는 한국 의료 시스템의 구조적 문제가 지역 사회에 어떤 비극]]></description>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&idx=43782</guid>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43782</guid>
     </item>
     <item>
       <title><![CDATA[이용식 의원, “전통시장·상점가 운영 안정성 확보를 위한 제도적 장치 마련”]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&idx=43781</link>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&amp;idx=43781</link>
       <pubDate>Tue, 23 Sep 2025 01:00:40 GMT</pubDate>
       <description><![CDATA[경상남도의회 기획행정위원회 소속 이용식 의원(국민의힘, 양산1)은 지난 17일]]></description>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&idx=43781</guid>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&amp;idx=43781</guid>
     </item>
     <item>
       <title><![CDATA[(부울경메가시티뉴스/경남도의회)최학범 의장, 카자흐 알마티서 산업·문화·인적 교류 기반 다져]]></title>
-      <link>http://www.oratory.co.kr/news/view.html?section=115&category=118&no=1998</link>
+      <link>http://www.oratory.co.kr/news/view.html?section=115&amp;category=118&amp;no=1998</link>
       <pubDate>Tue, 23 Sep 2025 00:47:16 GMT</pubDate>
       <description><![CDATA[경남도의회 최학범 의장, 알마티서 산업·문화·인적 교류 기반 다져 - 경남-알마티 상호발전 동반자 기대, 경남기업 진출 적극 지원 - 
 중앙아시아 3개국 공식방문으로 교역 확대와 협력 기반 다져   경상남도의회 최학범 의장은 9월 22일 카자흐스탄 알마티시청에서 열린 
 공식 환담 및 협력행사에 참석해 알마티시와의 교류 협력을 강화했다고 밝혔습니다.   이번 방문은 승강기 산업을 비롯한 양 지역 간 
 실질적인 협력 기반을 구축하고, 국제교류와 상호 이해를 넓히기 위해 마련되었으며, 경남도지사, 사티발디 다르...]]></description>
-      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=115&category=118&no=1998</guid>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=115&amp;category=118&amp;no=1998</guid>
     </item>
     <item>
       <title><![CDATA[양산시가족센터-양산마스터요리학원 '업무협약식']]></title>
@@ -1151,85 +1152,85 @@ CEO세미나를 개최했다. 지난 23일 양산상의 5층 컨퍼런스홀에�
     </item>
     <item>
       <title><![CDATA[내 세금으로 호화 바캉스!  양산시의회는?]]></title>
-      <link>http://www.oratory.co.kr/news/view.html?section=86&category=98&no=1997</link>
+      <link>http://www.oratory.co.kr/news/view.html?section=86&amp;category=98&amp;no=1997</link>
       <pubDate>Mon, 22 Sep 2025 06:40:25 GMT</pubDate>
       <description><![CDATA[제8대 지방의회 의원 임기가 끝나가고 있습니다.지방의원들이 임기가 끝나는 현 시점에 국외공무출장을 간다는 것은 해외여행이 주 목적일 
 수밖에 없는 것입니다. 다녀와 봐야 의정에 반영할 시간도 없는 것입니다.   이런 부끄러운 짓을 하는 경남의 한 지방의회가 지난 21일 
 MBC경남 뉴스에 보도되었습니다. 어떤 내용인지 잠깐 보시겠습니다.  (영상) 문제는 고성군의회가 최근 국민권익위원회가 전국 지방의회에 
 내려 보낸 국외공무출장 규칙개정안을 무시하고 마음대로 출국했다는 것입니다.아마도 고성군희망연대의 ...]]></description>
-      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=86&category=98&no=1997</guid>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=86&amp;category=98&amp;no=1997</guid>
     </item>
     <item>
       <title><![CDATA[양산의 동정(動靜)/2025 양산삽량문화축전 개최]]></title>
-      <link>http://www.oratory.co.kr/news/view.html?section=1&category=7&no=1996</link>
+      <link>http://www.oratory.co.kr/news/view.html?section=1&amp;category=7&amp;no=1996</link>
       <pubDate>Sun, 21 Sep 2025 07:52:38 GMT</pubDate>
       <description><![CDATA[❍행사명: 2025 양산삽량문화축전 개최 ❍일 시: 2025년 9월26일, 27일, 28일(일) / 3일간 ❍장 소: 양산천 둔치 및 
 양산종합운동장 일원 ❍개막식: 18시30분 특설무대 ※취재 편집 및 영상제작 후원은(카카오뱅크: 3333-35-0263877) / 
 예금주: 김진성_기자) (선량한 시민을 위한 언론_양산TV)]]></description>
-      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&category=7&no=1996</guid>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&amp;category=7&amp;no=1996</guid>
     </item>
     <item>
       <title><![CDATA[양산시, 추석 연휴로 지방세 신고납부 기한 연장]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=304&idx=43780</link>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=304&amp;idx=43780</link>
       <pubDate>Sat, 20 Sep 2025 08:19:01 GMT</pubDate>
       <description><![CDATA[양산시는 지방소득세(특별징수분), 주민세(종업원분)의 오는 10월 신고납부 기한을 당초 10월 10일에서 10월 15일로 연장한다고 
 밝혔다.]]></description>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=304&idx=43780</guid>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=304&amp;idx=43780</guid>
     </item>
     <item>
       <title><![CDATA[국민생아구찜 평산점, 추석맞이 무료급식 봉사활동]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&idx=43779</link>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43779</link>
       <pubDate>Sat, 20 Sep 2025 08:11:06 GMT</pubDate>
       <description><![CDATA[국민생아구찜 평산점(사장 김태용)은 지난 17일 지역사회 내 저소득층 어르신들을 위한 무료급식 봉사활동을 실시했다고 밝혔다.]]></description>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&idx=43779</guid>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43779</guid>
     </item>
     <item>
       <title><![CDATA[평산동 적십자봉사회, 삼계탕 무료나눔 봉사]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=260&idx=43778</link>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=260&amp;idx=43778</link>
       <pubDate>Sat, 20 Sep 2025 07:59:31 GMT</pubDate>
       <description><![CDATA[양산시 평산동 적십자봉사회는 지난 18일 한가위를 맞아 지역사회에 따뜻한 온정을 전하는 삼계탕 나눔 봉사를 실시했다.]]></description>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=260&idx=43778</guid>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=260&amp;idx=43778</guid>
     </item>
     <item>
       <title><![CDATA[양산시 원동면 언곡마을(원동209호)의 진실_3편]]></title>
-      <link>http://www.oratory.co.kr/news/view.html?section=86&category=90&no=1995</link>
+      <link>http://www.oratory.co.kr/news/view.html?section=86&amp;category=90&amp;no=1995</link>
       <pubDate>Fri, 19 Sep 2025 09:11:40 GMT</pubDate>
       <description><![CDATA[양산시 원동면 언곡마을 (원동209호)의 진실(3편) ‘시의원들과 A기자, 누구 말이 진실인가?’   양산시 물금읍 원동면 선리3반, 
 언곡마을의 숙원사업이었던 좁디좁은 마을 진입도로 약 2Km 길을 확장개설하고 소하천을 정비하는 원동209호 사업이 시의회를 통과하고 
 양산시는 2023년 1월30일 즉시 약6천만원의 예산을 들여 실시설계용역을 합니다.   또한 2024년도 당초예산에 도로확장으로 
 편입되는 토지보상금으로 5억원을 편성합니다.   이처럼 적극적으로 사업을 추진하던 양산시 건설도로과가 갑자기 20...]]></description>
-      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=86&category=90&no=1995</guid>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=86&amp;category=90&amp;no=1995</guid>
     </item>
     <item>
       <title><![CDATA[(양산시 보도뉴스)양산시, 22일부터 인플루엔자(독감) 예방접종 실시]]></title>
-      <link>http://www.oratory.co.kr/news/view.html?section=1&category=5&no=1994</link>
+      <link>http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=1994</link>
       <pubDate>Thu, 18 Sep 2025 11:11:14 GMT</pubDate>
       <description><![CDATA[양산시, 22일부터 인플루엔자(독감) 예방접종 실시   양산시는 9월 22일부터 내년 4월 30일까지 인플루엔자 무료 예방접종을 
 실시한다고 밝혔습니다.   국가예방접종 무료 대상자는 22일부터 2회 접종 대상인 생후 6개월 ~ 9세 미만의 생애 첫 접종 어린이, 
 29일부터 13세 이하 어린이 및 임신부, 10월 15일부터 75세 이상 어르신, 10월 20일부터 70~74세 어르신, 10월 
 22일부터 65세 이상 어르신이 접종받을 수 있고 익년 4월 30일 사업 종료 시까지 접종 가능합니다.   국가예방접종은 주소지와 관계 
 없이 가까운 ...]]></description>
-      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&category=5&no=1994</guid>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=1994</guid>
     </item>
     <item>
       <title><![CDATA[(부울경메가시티뉴스/영산대학교)K-푸드조리전공, 다문화가족 자녀와 요리체험]]></title>
-      <link>http://www.oratory.co.kr/news/view.html?section=115&category=118&no=1993</link>
+      <link>http://www.oratory.co.kr/news/view.html?section=115&amp;category=118&amp;no=1993</link>
       <pubDate>Thu, 18 Sep 2025 00:55:27 GMT</pubDate>
       <description><![CDATA[영산대 K-푸드조리전공, 다문화가족 자녀와 요리체험‘찐친을 위한 집밥 최선생 별미' 등 한국 음식문화 경험 기회 제공   와이즈유 
 영산대학교(총장 부구욱) K-food조리전공은 최근 다문화가족 초등학생 자녀들을 대상으로 진로역량강화 프로젝트 ‘꿈.찾.다(꿈을 찾는 
 다문화 아이들) 시즌 2’를 성공적으로 마쳤다고 밝혔습니다.여름방학 특별수업으로 진행된 이번 프로그램에서 학생들은 ‘찐친을 위한 집밥 
 최선생 별미(김밥·떡볶이·불고기 만들기)’라는 주제로 요리사의 직업을 체험했습니다. 참가 학생들은 한국 전통 음...]]></description>
-      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=115&category=118&no=1993</guid>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=115&amp;category=118&amp;no=1993</guid>
     </item>
     <item>
       <title><![CDATA[(양산시 보도뉴스)홍룡사, 상북면에 이웃돕기 성금·쌀 전달]]></title>
-      <link>http://www.oratory.co.kr/news/view.html?section=1&category=5&no=1992</link>
+      <link>http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=1992</link>
       <pubDate>Wed, 17 Sep 2025 11:40:26 GMT</pubDate>
       <description><![CDATA[홍룡사, 상북면에 이웃돕기 성금·쌀 전달- 추석 앞두고 성금 300만원, 쌀 20kg 40포 기탁 -양산시 상북면 행정복지센터(면장 
 박순옥)는 지난 15일 홍룡사(주지 법진스님)에서 추석을 앞두고 지역사회를 위한 따뜻한 나눔의 일환으로 성금 300만원과 쌀 20kg 
 40포를 기탁했다고 밝혔습니다.   홍룡사는 매년 명절 때마다 지역 사회에 기부를 이어오고 있습니다.   이러한 기부는 지역 내 취약 
 계층에게 실질적인 도움을 주고 있으며, 일상 생활에서 나눔의 가치를 확산시키고 있습니다. 법진스님은 “추석은 누군가에게는 ...]]></description>
-      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&category=5&no=1992</guid>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=1992</guid>
     </item>
   </channel>
 </rss>
