@@ -5,7 +5,7 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 01 Oct 2025 14:26:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 00:26:25 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title><![CDATA[서창도서관 "꿈 그릇에 어떤 모양을 만들까?"]]></title>
@@ -61,6 +61,20 @@
         <title>웅상뉴스</title>
       </source>
       <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=260&amp;idx=43799</guid>
+    </item>
+    <item>
+      <title><![CDATA[2025 제3회 양산TV가요대전 예선도전하세요]]></title>
+      <link>http://www.oratory.co.kr/news/view.html?section=2&amp;category=10&amp;no=2014</link>
+      <pubDate>Wed, 01 Oct 2025 02:49:56 GMT</pubDate>
+      <description><![CDATA[전국유일 지정곡 노래자랑!‘2025 제3회 양산TV 시민가요대전’예선전을 안내합니다.2025년 제3회 양산TV시민가요대전 주제는 [원조 
+K-POP 지정곡]입니다. 현재 K-pop이 지구촌 트랜드가 되기까지 케이팝의 원조라고 할 수 있는 가요의 탄생시기(1930년대)부터 
+1960년대까지 한국가요를 이끌어 온 가수들 노래 9곡을 지정곡으로 선정했습니다.원조 케이팝의 진수를 맛보여 주실 도전자들을 
+기다리겠습니다.   (예선전)-일시: 2025년11월9일(일) 오후1시~5시-장소: 양산문화예술회관 소공연장-접수마감: 선착순 
+지정곡1곡당 3명까지...]]></description>
+      <source>
+        <title>양산TV</title>
+      </source>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=2&amp;category=10&amp;no=2014</guid>
     </item>
     <item>
       <title><![CDATA[기아 부산사업소 명동점 기아오토큐 허석규 대표, 양산YMCA 청소년 동아리 육성 위해 720만원 후원]]></title>
