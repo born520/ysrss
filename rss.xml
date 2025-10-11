@@ -5,8 +5,19 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 11 Oct 2025 02:26:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 03:26:20 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[[기고] 500여년간 이 고장을 지킨 가문]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=310&amp;idx=43806</link>
+      <pubDate>Sat, 11 Oct 2025 01:22:47 GMT</pubDate>
+      <description><![CDATA[박지영은 무안군수를 역임하시다 파당을 이루어 백성들의 삶의 모습이 날로 피폐해져 가는 모습에는 안중에 두지 않고 권력 다툼만 하는 
+관리들 모습에 환멸을 느껴]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=310&amp;idx=43806</guid>
+    </item>
     <item>
       <title><![CDATA[양산녹색환경연합, 능걸산 고산습지 '합동 실태조사']]></title>
       <link>http://www.ysnewspark.com/news/articleView.html?idxno=15899</link>
