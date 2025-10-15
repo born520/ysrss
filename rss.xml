@@ -5,7 +5,7 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 15 Oct 2025 10:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 11:26:27 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title><![CDATA[오는 30일 양산시축구협회 회장 보궐선거]]></title>
@@ -16,6 +16,19 @@
         <title>양산신문</title>
       </source>
       <guid isPermaLink="true">https://www.yangsanilbo.com/news/articleView.html?idxno=119811</guid>
+    </item>
+    <item>
+      <title><![CDATA[양산예총, '2025 양산예술제' 내달 1일과 2일 개최]]></title>
+      <link>http://www.ysnewspark.com/news/articleView.html?idxno=15914</link>
+      <pubDate>Wed, 15 Oct 2025 08:55:35 GMT</pubDate>
+      <description><![CDATA[(사)한국예술문화단체총연합회 양산지회(회장 이종락·이하 양산예총)가 주최하고 7개 각 단체별 지부가 
+주관하는 '2025 양산예술제' 행사가 오는 11월 1일과 2일 황산공원 유소년축구장에서 열린다. 올해 24회를 맞는 예술제는 '예술로 
+물드는 양산, 시민과 함께 피어나다'를 슬로건으로 ’전문예술인들의 공연과 전시, 체험 등의 다양한 행사가 열린다. 특히 양산시민들에게 
+문화예술의 폭 넓은 전파와 공유기회를 제공하기 위해 마련된 이 행사는 해마다 2,000여 명 이상의 시민들이]]></description>
+      <source>
+        <title>양산뉴스파크</title>
+      </source>
+      <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=15914</guid>
     </item>
     <item>
       <title><![CDATA[우불라이온스클럽, 취약계층 무료틀니 후원]]></title>
