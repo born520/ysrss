@@ -5,7 +5,7 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 17 Oct 2025 07:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 08:26:21 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title><![CDATA[양산시체육회, 생활체육 프로그램 참가 '한마음대회']]></title>
@@ -19,6 +19,19 @@
         <title>양산뉴스파크</title>
       </source>
       <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=15920</guid>
+    </item>
+    <item>
+      <title><![CDATA[(양산시 보도뉴스)전통과 현대가 어우러진 ‘제7회 양산 차문화 축제’]]></title>
+      <link>http://www.oratory.co.kr/news/view.html?section=1&amp;category=7&amp;no=2025</link>
+      <pubDate>Fri, 17 Oct 2025 02:42:09 GMT</pubDate>
+      <description><![CDATA[전통과 현대가 어우러진 ‘제7회 양산 차문화 축제’- 10월 18일 하북면 통도아트센터 광장 일원 -   양산시는 오는 10월 
+18일(토) 오후 1시 20분 하북면 통도아트센터 광장 일원에서 ‘제7회 양산 차문화축제’가 개최된다고 밝혔습니다.   이번 행사는 
+통도예술마을협동조합이 주최・주관하고, 양산시가 후원하는 지역문화 축제로, 천년고찰 통도사를 품은 양산의 정체성과 품격 있는 전통문화를 
+널리 알리고, 시민들에게 차를 매개로 한 휴식과 소통의 장을 제공하기 위해 마련됐습니다.   행사는 식전 국...]]></description>
+      <source>
+        <title>양산TV</title>
+      </source>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&amp;category=7&amp;no=2025</guid>
     </item>
     <item>
       <title><![CDATA[소토초 이전 논의, 돌고 돌아 다시 원점]]></title>
@@ -4009,6 +4022,17 @@ K-POP 지정곡]입니다. 현재 K-pop이 지구촌 트랜드가 되기까지 �
         <title>양산신문</title>
       </source>
       <guid isPermaLink="true">https://www.yangsanilbo.com/news/articleView.html?idxno=119573</guid>
+    </item>
+    <item>
+      <title><![CDATA[제11회 평산동 한마당 잔치, 10월 19일 열린다]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=329&amp;idx=43793</link>
+      <pubDate>Fri, 26 Sep 2025 05:16:08 GMT</pubDate>
+      <description><![CDATA[[양산] 평산동 체육회(회장 박성복)는 오는 10월 19일 오전 10시부터 오후 3시까지 평산음악공원(선우2차 앞)에서 ‘제11회 
+평산동 한마당 잔치’를 연다. 개회식은 낮 12시에 진행된다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=329&amp;idx=43793</guid>
     </item>
     <item>
       <title><![CDATA[금강산업개발, 추석 '소외계층돕기' 200만원 기탁]]></title>
