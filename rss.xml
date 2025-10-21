@@ -5,7 +5,7 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 21 Oct 2025 09:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 10:26:25 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title><![CDATA[우불사, 서창동에 이웃돕기 후원금 100만원 기탁]]></title>
@@ -42,6 +42,16 @@
         <title>양산뉴스파크</title>
       </source>
       <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=15937</guid>
+    </item>
+    <item>
+      <title><![CDATA[울산항만공사, 울산항 건설현장 근로자 ‘안전의식지수’ 고도화]]></title>
+      <link>https://www.yangsanilbo.com/news/articleView.html?idxno=119959</link>
+      <pubDate>Tue, 21 Oct 2025 01:26:00 GMT</pubDate>
+      <description><![CDATA[울산항만공사(UPA, 사장 변재영)는 울산항 건설현장의 안전관리 강화를 위해 추진한 ‘울산항 건설현장 근로자 안전의식지수 고도화 및 콘텐츠 개발’ 용역을 완료하고 본격 활용에 들어간다고 20일 밝혔다.이번 용역은 지난해 국내항만 최초로 개발된 ‘항만 건설근로자 안전의식지수’ 체계를 한층 고도화하기 위해 설문 문항에 대한 검증과 보완이 중점적으로 이뤄졌다.울산항만공사는 지수의 고도화를 위해 기존 40개 문항으로 구성된 설문은 여성·고령자·외국인 등 취약근로자를 위해 보완하고, 안전피로도, 자발적 참여도 등 근]]></description>
+      <source>
+        <title>양산신문</title>
+      </source>
+      <guid isPermaLink="true">https://www.yangsanilbo.com/news/articleView.html?idxno=119959</guid>
     </item>
     <item>
       <title><![CDATA[2025년 양산시 채용박람회' 28일 실내체육관 개최]]></title>
