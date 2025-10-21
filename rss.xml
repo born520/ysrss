@@ -5,7 +5,7 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 21 Oct 2025 05:26:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 06:26:20 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title><![CDATA[2025년 양산시 채용박람회' 28일 실내체육관 개최]]></title>
@@ -110,6 +110,17 @@
         <title>양산TV</title>
       </source>
       <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&amp;category=3&amp;no=2030</guid>
+    </item>
+    <item>
+      <title><![CDATA[제11회 평산동 한마음 잔치, 가을 하늘 아래 웃음꽃 만발]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=333&amp;idx=43828</link>
+      <pubDate>Mon, 20 Oct 2025 03:52:45 GMT</pubDate>
+      <description><![CDATA[가을 정취가 깊어가는 지난 10월 19일, ‘제11회 평산동 한마음 잔치’가 평산음악공원(선우2차 앞)에서 주민 1,000여 명이 
+함께한 가운데 성황리에 열렸다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=333&amp;idx=43828</guid>
     </item>
     <item>
       <title><![CDATA[외국인노동자 정주와 정책과제 논의 토론회 열려]]></title>
@@ -636,17 +647,6 @@
         <title>양산신문</title>
       </source>
       <guid isPermaLink="true">https://www.yangsanilbo.com/news/articleView.html?idxno=119921</guid>
-    </item>
-    <item>
-      <title><![CDATA[제11회 평산동 한마음 잔치, 가을 하늘 아래 웃음꽃 만발]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=333&amp;idx=43828</link>
-      <pubDate>Sun, 19 Oct 2025 20:13:00 GMT</pubDate>
-      <description><![CDATA[가을 정취가 깊어가는 지난 10월 19일, ‘제11회 평산동 한마음 잔치’가 평산음악공원(선우2차 앞)에서 주민 1,000여 명이 
-함께한 가운데 성황리에 열렸다.]]></description>
-      <source>
-        <title>웅상뉴스</title>
-      </source>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=333&amp;idx=43828</guid>
     </item>
     <item>
       <title><![CDATA[“천 가지 이야기를 품은 길, 천성산으로”, 제3회 천성산생태숲 전국걷기축제 열린다]]></title>
