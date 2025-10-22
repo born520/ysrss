@@ -5,7 +5,7 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 22 Oct 2025 02:26:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 03:26:23 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title><![CDATA[윤영석 의원, 불공정 조달행위 급증 '국민만 피해자']]></title>
@@ -20,6 +20,17 @@
         <title>양산뉴스파크</title>
       </source>
       <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=15941</guid>
+    </item>
+    <item>
+      <title><![CDATA[양산지식王! 중앙동 골든벨 참가자 모집]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43838</link>
+      <pubDate>Wed, 22 Oct 2025 00:06:01 GMT</pubDate>
+      <description><![CDATA[양산 시민의 상식과 지역사랑을 겨루는 ‘양산지식! 중앙동골든벨’ 이 열린다. 이번 행사는 지역 주민의 교류와 학습 문화를 활성화하기 
+위해 마련됐으며, 오는 11월 1일 오후 2시 중앙동행정복지센터 앞 야외 특설무대에서 진행된다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43838</guid>
     </item>
     <item>
       <title><![CDATA[강동환 작가, 신작 ‘오! 나의 변호사 아가씨’ 출간 기념회 열려]]></title>
@@ -81,17 +92,6 @@
         <title>양산신문</title>
       </source>
       <guid isPermaLink="true">https://www.yangsanilbo.com/news/articleView.html?idxno=119964</guid>
-    </item>
-    <item>
-      <title><![CDATA[양산지식王! 중앙동 골든벨 참가자 모집]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43838</link>
-      <pubDate>Tue, 21 Oct 2025 22:46:05 GMT</pubDate>
-      <description><![CDATA[양산 시민의 상식과 지역사랑을 겨루는 ‘양산지식! 중앙동골든벨’ 이 열린다. 이번 행사는 지역 주민의 교류와 학습 문화를 활성화하기 
-위해 마련됐으며, 오는 11월 1일 오후 2시 중앙동행정복지센터 앞 야외 특설무대에서 진행된다.]]></description>
-      <source>
-        <title>웅상뉴스</title>
-      </source>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43838</guid>
     </item>
     <item>
       <title><![CDATA[구직자는 취업 기회를, 기업은 우수 인재를]]></title>
