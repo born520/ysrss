@@ -5,8 +5,18 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 23 Oct 2025 07:26:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 08:26:27 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[양산 신덕계 아파트 연합, `어울림 한마당 축제` 열린다]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43841</link>
+      <pubDate>Thu, 23 Oct 2025 07:00:03 GMT</pubDate>
+      <description><![CDATA[양산시 신덕계 지역의 아파트 연합(두산위브1차, 두산위브2차1단지·2단지,]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43841</guid>
+    </item>
     <item>
       <title><![CDATA[동원 여성리더대학, '뉴진스님 특별공연' 열기 후끈]]></title>
       <link>http://www.ysnewspark.com/news/articleView.html?idxno=15945</link>
@@ -1028,6 +1038,17 @@ KIEP-ERI학술회의'에도 공식 초청을 받아 토론을 가지기도 했�
         <title>양산TV</title>
       </source>
       <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&amp;category=7&amp;no=2031</guid>
+    </item>
+    <item>
+      <title><![CDATA[웅상센트럴파크 개관식 및 기념행사 성황리 개최]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=284&amp;idx=43823</link>
+      <pubDate>Mon, 20 Oct 2025 07:15:19 GMT</pubDate>
+      <description><![CDATA[지난 17일 주진동에 위치한 웅상센트럴파크에서 개관식 및 개관기념행사 ‘웅상센트럴파크 open &amp; night party’를 성황리에 
+열렸다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=284&amp;idx=43823</guid>
     </item>
     <item>
       <title><![CDATA[양산 원동면 서룡리 산지 수백여 평 '불법훼손' 논란]]></title>
