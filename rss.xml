@@ -5,8 +5,21 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 24 Oct 2025 14:26:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 00:26:27 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[(양산시 보도뉴스)양산시립 중앙도서관, 이도훈 작가와의 만남 운영]]></title>
+      <link>http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=2040</link>
+      <pubDate>Fri, 24 Oct 2025 10:55:09 GMT</pubDate>
+      <description><![CDATA[양산시립 중앙도서관, 이도훈 작가와의 만남 운영   - 현직 부산 지하철 기관사가 전하는 유쾌한 인간 관찰기 -- 「이번 역은 요절복통 
+지하세계입니다」의 저자 이도훈 작가 -   양산시립 중앙도서관은 11월 2일 이도훈 작가를 초청해 작가와의 만남 행사를 개최한다고 
+밝혔습니다.   이번 행사는 ‘현직 부산 지하철 기관사의 인간 관찰기’를 주제로, 지하철이라는 익숙한 공간에서 펼쳐지는 다양한 인간 
+군상과 일상 속 공감을 유머러스하게 풀어낼 예정입니다.   이도훈 작가는 경성대학교 메카트로닉스...]]></description>
+      <source>
+        <title>양산TV</title>
+      </source>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=2040</guid>
+    </item>
     <item>
       <title><![CDATA[‘죽음을 미리 체험, 새로운 삶으로 다시 태어나는 입관체험’]]></title>
       <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=274&amp;idx=43848</link>
@@ -57,6 +70,19 @@
         <title>웅상뉴스</title>
       </source>
       <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=265&amp;idx=43847</guid>
+    </item>
+    <item>
+      <title><![CDATA[기도의 힘으로..]]></title>
+      <link>http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=2039</link>
+      <pubDate>Fri, 24 Oct 2025 00:47:28 GMT</pubDate>
+      <description><![CDATA[화장장 건립을 반대하는 분명한 이유 천주교 부산교구 양산 영성의 집과 천주교 울산대리구 합동 기도회 [누가 이들을 기도하게 하는가?] 
+주민들의 반대가 가장 극심한 어곡동에 화장장 건립에 가장 높은 점수를 준 용역결과에 분노하는 주민들과 천주교인들이 뭉쳤다. 양산시의 
+밀실행정에 분노하며 매주 (수, 금) 양산시청앞에서 집회와 기도회가 진행된다. 양산시는 화장장건립을 즉각 철회하라! 라고 외치는 이들의 
+기도를 취재했다. 취재 : 양산TV 김PD ※취재 편집 및 영상제작 후원은(카카오뱅크: 3333-35-0263877) / 예금...]]></description>
+      <source>
+        <title>양산TV</title>
+      </source>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=2039</guid>
     </item>
     <item>
       <title><![CDATA[[대학] 학교법인 성심학원, ‘법인-대학 재정건전성’ 전국 13위]]></title>
