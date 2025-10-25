@@ -5,8 +5,31 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 25 Oct 2025 02:26:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 03:26:29 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[웅상시니어클럽, 노인일자리 참여자 영화관람 문화활동 실시]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&amp;idx=43851</link>
+      <pubDate>Sat, 25 Oct 2025 02:24:26 GMT</pubDate>
+      <description><![CDATA[YMCA법인 웅상시니어클럽(관장 엄수연)은 지난 22일부터 23일까지 양일간,]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&amp;idx=43851</guid>
+    </item>
+    <item>
+      <title><![CDATA[월드다가치-삼진어묵, 세계화 진출 공동노력 '협약']]></title>
+      <link>http://www.ysnewspark.com/news/articleView.html?idxno=15950</link>
+      <pubDate>Sat, 25 Oct 2025 02:04:34 GMT</pubDate>
+      <description><![CDATA[㈜월드다가치(대표 권해석)가 부산의 대표 어묵브랜드 삼진어묵(대표 박용준)과 업무협약을 체결하고 K어묵 
+브랜드의 세계진출에 함께 노력키로 했다. 세계 최초 AI기반 외국인 소통플랫폼인 '다가치(DAGACHI)' 앱을 개발한 월드다가치는 
+24일 삼진어묵 부산본사에서 권해석 대표와 김상현 부대표, 삼진어묵의 김태성 부사장, 이혜인 홍보팀장 등이 참석한 가운데 상호발전을 
+위한 업무협약을 체결했다. 부산의 대표적 상품이자 70년 역사를 자랑하는 삼진어묵은 그동안 어묵의 대중화를 위해 다양한 어묵상]]></description>
+      <source>
+        <title>양산뉴스파크</title>
+      </source>
+      <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=15950</guid>
+    </item>
     <item>
       <title><![CDATA[(양산시 보도뉴스)양산시립 중앙도서관, 이도훈 작가와의 만남 운영]]></title>
       <link>http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=2040</link>
@@ -19,16 +42,6 @@
         <title>양산TV</title>
       </source>
       <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=2040</guid>
-    </item>
-    <item>
-      <title><![CDATA[‘죽음을 미리 체험, 새로운 삶으로 다시 태어나는 입관체험’]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=274&amp;idx=43848</link>
-      <pubDate>Fri, 24 Oct 2025 10:12:54 GMT</pubDate>
-      <description><![CDATA[양산시 덕계동에 위치한 불음사(양산시 덕계동 2길 5-21 세신아파트]]></description>
-      <source>
-        <title>웅상뉴스</title>
-      </source>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=274&amp;idx=43848</guid>
     </item>
     <item>
       <title><![CDATA[˝나이는 숫자에 불과하다˝]]></title>
@@ -51,16 +64,6 @@
       <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=260&amp;idx=43850</guid>
     </item>
     <item>
-      <title><![CDATA[‘한국식으로 일하고 미국식으로 승부하라’ 오문석 작가의 강연회 열린다]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43849</link>
-      <pubDate>Fri, 24 Oct 2025 07:37:39 GMT</pubDate>
-      <description><![CDATA[최근 양산시 웅상지역에서 화제로 떠오르는 ‘한국식으로 일하고 미국식으로 승부하라]]></description>
-      <source>
-        <title>웅상뉴스</title>
-      </source>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43849</guid>
-    </item>
-    <item>
       <title><![CDATA[[특집기획|지역예술, 지원의 현주소] “지원이라지만, 결국 내 돈이었다”]]></title>
       <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=265&amp;idx=43847</link>
       <pubDate>Fri, 24 Oct 2025 06:16:30 GMT</pubDate>
@@ -70,6 +73,26 @@
         <title>웅상뉴스</title>
       </source>
       <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=265&amp;idx=43847</guid>
+    </item>
+    <item>
+      <title><![CDATA[‘한국식으로 일하고 미국식으로 승부하라’ 오문석 작가의 강연회 열린다]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43849</link>
+      <pubDate>Fri, 24 Oct 2025 03:06:52 GMT</pubDate>
+      <description><![CDATA[최근 양산시 웅상지역에서 화제로 떠오르는 ‘한국식으로 일하고 미국식으로 승부하라]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43849</guid>
+    </item>
+    <item>
+      <title><![CDATA[‘죽음을 미리 체험, 새로운 삶으로 다시 태어나는 입관체험’]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=274&amp;idx=43848</link>
+      <pubDate>Fri, 24 Oct 2025 02:11:52 GMT</pubDate>
+      <description><![CDATA[양산시 덕계동에 위치한 불음사(양산시 덕계동 2길 5-21 세신아파트]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=274&amp;idx=43848</guid>
     </item>
     <item>
       <title><![CDATA[기도의 힘으로..]]></title>
