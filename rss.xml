@@ -5,7 +5,7 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 26 Oct 2025 05:26:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 06:26:22 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title><![CDATA[㈜월드다가치, 최초 부산 사상구청과 '관공서 협약']]></title>
@@ -58,17 +58,6 @@
       <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=15950</guid>
     </item>
     <item>
-      <title><![CDATA[[특집기획|지역예술, 지원의 현주소] “지원이라지만, 결국 내 돈이었다”]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=263&amp;idx=43847</link>
-      <pubDate>Fri, 24 Oct 2025 14:46:36 GMT</pubDate>
-      <description><![CDATA[지난해 봄, 지역 예술단체 A대표는 시 문화예술 지원사업에 선정됐다. 반가움은 잠시였다. 총사업비의 10% 자부담을 맞추느라 제작비와 
-홍보비를 줄였고 모자란 금액은 사비로 메웠다.]]></description>
-      <source>
-        <title>웅상뉴스</title>
-      </source>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=263&amp;idx=43847</guid>
-    </item>
-    <item>
       <title><![CDATA[(양산시 보도뉴스)양산시립 중앙도서관, 이도훈 작가와의 만남 운영]]></title>
       <link>http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=2040</link>
       <pubDate>Fri, 24 Oct 2025 10:55:09 GMT</pubDate>
@@ -111,6 +100,17 @@
         <title>웅상뉴스</title>
       </source>
       <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=265&amp;idx=43847</guid>
+    </item>
+    <item>
+      <title><![CDATA[[특집기획| 지역예술, 지원의 현주소] “지원이라지만, 결국 내 돈이었다”]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=263&amp;idx=43847</link>
+      <pubDate>Fri, 24 Oct 2025 04:18:54 GMT</pubDate>
+      <description><![CDATA[지난해 봄, 지역 예술단체 A대표는 시 문화예술 지원사업에 선정됐다. 반가움은 잠시였다. 총사업비의 10% 자부담을 맞추느라 제작비와 
+홍보비를 줄였고 모자란 금액은 사비로 메웠다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=263&amp;idx=43847</guid>
     </item>
     <item>
       <title><![CDATA[‘한국식으로 일하고 미국식으로 승부하라’ 오문석 작가의 강연회 열린다]]></title>
