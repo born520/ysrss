@@ -5,7 +5,7 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 30 Oct 2025 08:26:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 09:26:26 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title><![CDATA[<포토뉴스> 점점 깊어가는 가을, 회야강의 풍경]]></title>
@@ -1386,6 +1386,16 @@
       <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=260&amp;idx=43850</guid>
     </item>
     <item>
+      <title><![CDATA[˝나이는 숫자에 불과하다˝]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=330&amp;idx=43850</link>
+      <pubDate>Fri, 24 Oct 2025 06:36:01 GMT</pubDate>
+      <description><![CDATA[지난 20일 부산시 남구 그랜드모먼트에서 국제신문과 한국모델시인협회 주최로 ‘제1회 디카시 탑모델 선발대회’가 열렸다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=330&amp;idx=43850</guid>
+    </item>
+    <item>
       <title><![CDATA[[특집기획|지역예술, 지원의 현주소] “지원이라지만, 결국 내 돈이었다”]]></title>
       <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=265&amp;idx=43847</link>
       <pubDate>Fri, 24 Oct 2025 06:16:30 GMT</pubDate>
@@ -2053,16 +2063,6 @@
         <title>양산신문</title>
       </source>
       <guid isPermaLink="true">https://www.yangsanilbo.com/news/articleView.html?idxno=120063</guid>
-    </item>
-    <item>
-      <title><![CDATA[˝나이는 숫자에 불과하다˝]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=330&amp;idx=43850</link>
-      <pubDate>Thu, 23 Oct 2025 20:41:05 GMT</pubDate>
-      <description><![CDATA[지난 20일 부산시 남구 그랜드모먼트에서 국제신문과 한국모델시인협회 주최로 ‘제1회 디카시 탑모델 선발대회’가 열렸다.]]></description>
-      <source>
-        <title>웅상뉴스</title>
-      </source>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=330&amp;idx=43850</guid>
     </item>
     <item>
       <title><![CDATA[6.25전쟁 당시 참전용사 故 김해룡 하사 '훈장 전수']]></title>
