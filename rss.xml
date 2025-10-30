@@ -5,7 +5,7 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 30 Oct 2025 02:26:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 03:26:22 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title><![CDATA[양산도시문화연구원, '천성산생태숲길 걷기축제']]></title>
@@ -791,16 +791,6 @@
       <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=2043</guid>
     </item>
     <item>
-      <title><![CDATA[박스권에 갇힌 웅상의 미래...웅상사람 모두가 함께 해야]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&amp;idx=43855</link>
-      <pubDate>Mon, 27 Oct 2025 09:35:18 GMT</pubDate>
-      <description><![CDATA[웅상에 현재 추진 중인 중대형 건설 사업이 취소되거나 산단]]></description>
-      <source>
-        <title>웅상뉴스</title>
-      </source>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&amp;idx=43855</guid>
-    </item>
-    <item>
       <title><![CDATA[[갤러리휴] 제7회 빛이랑 사진전]]></title>
       <link>https://www.yangsanilbo.com/news/articleView.html?idxno=120129</link>
       <pubDate>Mon, 27 Oct 2025 07:16:00 GMT</pubDate>
@@ -835,6 +825,16 @@
         <title>양산TV</title>
       </source>
       <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&amp;category=3&amp;no=2042</guid>
+    </item>
+    <item>
+      <title><![CDATA[박스권에 갇힌 웅상의 미래...웅상사람 모두가 함께 해야]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&amp;idx=43855</link>
+      <pubDate>Mon, 27 Oct 2025 02:44:47 GMT</pubDate>
+      <description><![CDATA[웅상에 현재 추진 중인 중대형 건설 사업이 취소되거나 산단]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&amp;idx=43855</guid>
     </item>
     <item>
       <title><![CDATA[양산의 동정(動靜)/11월 1일(토, 오후4시~) 양산젊음의거리 샵광장으로 모이자]]></title>
