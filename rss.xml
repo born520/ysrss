@@ -5,7 +5,7 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 02 Nov 2025 00:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 01:26:36 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title><![CDATA[제1회 양산시니어 가요제, '대상 황문희 씨' 차지]]></title>
@@ -32,6 +32,19 @@
         <title>양산뉴스파크</title>
       </source>
       <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=15981</guid>
+    </item>
+    <item>
+      <title><![CDATA[(부울경메가시티뉴스)경남도의회 최학범 의장, 제36회 경남생활체육대전 참석자 격려]]></title>
+      <link>http://www.oratory.co.kr/news/view.html?section=115&amp;category=118&amp;no=2050</link>
+      <pubDate>Sat, 01 Nov 2025 02:38:50 GMT</pubDate>
+      <description><![CDATA[도의회 최학범 의장, 제36회 경남생활체육대전 참석자 격려 - 생활체육인의 화합과 건강한 지역 공동체 조성에 앞장서는 축제 한마당 축하 
+  경상남도의회 최학범 의장은 10월 31일(금) 밀양종합운동장에서 열린 제36회 경남생활체육대전 개회식에 참석해 선수단을 격려하고, 
+생활체육인 모두가 화합하고 소통하는 뜻깊은 자리가 되기를 바란다고 격려의 말을 전했습니다.   올해 생활체육대전은 10월 31일부터 
+11월 2일까지 3일간, 밀양종합운동장을 비롯한 종목별 경기장에서 펼쳐지며, 도내 12,000여 명의 선수와 임원...]]></description>
+      <source>
+        <title>양산TV</title>
+      </source>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=115&amp;category=118&amp;no=2050</guid>
     </item>
     <item>
       <title><![CDATA[양산시, SK인더스트리·이앤코와 '480억원 투자협약']]></title>
