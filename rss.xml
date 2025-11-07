@@ -5,8 +5,18 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 07 Nov 2025 01:26:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 02:26:23 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[힐링소울명상지도사 수강생 수시 모집]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=272&amp;idx=43871</link>
+      <pubDate>Fri, 07 Nov 2025 00:39:05 GMT</pubDate>
+      <description><![CDATA[어제와는 다른 오늘! 의식의 변화를 경험하라.창의적이고 건강한 삶, 지금 망설이지 마시오! 이 순간이 당신의 인생이 바뀐다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=272&amp;idx=43871</guid>
+    </item>
     <item>
       <title><![CDATA[10년 전 장학생, 이제는 기탁자로]]></title>
       <link>https://www.yangsanilbo.com/news/articleView.html?idxno=120417</link>
@@ -1812,16 +1822,6 @@ D Class에]]></description>
       <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=86&amp;category=98&amp;no=2051</guid>
     </item>
     <item>
-      <title><![CDATA[살맛나는 덕계동 한마음축제, 11월 8일 덕계행정복지센터서 열려]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=330&amp;idx=43862</link>
-      <pubDate>Sun, 02 Nov 2025 07:45:42 GMT</pubDate>
-      <description><![CDATA[‘2025 살맛나는 덕계동 한마음축제’가 오는 11월 8일 오후 3시 30분부터 덕계행정복지센터 주차장에서 열린다.]]></description>
-      <source>
-        <title>웅상뉴스</title>
-      </source>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=330&amp;idx=43862</guid>
-    </item>
-    <item>
       <title><![CDATA[울산항만공사, ‘울산항 퍼스트펭귄 클럽 6기’ 참가자 모집...12일까지 접수]]></title>
       <link>https://www.yangsanilbo.com/news/articleView.html?idxno=120302</link>
       <pubDate>Sun, 02 Nov 2025 03:25:00 GMT</pubDate>
@@ -1830,6 +1830,16 @@ D Class에]]></description>
         <title>양산신문</title>
       </source>
       <guid isPermaLink="true">https://www.yangsanilbo.com/news/articleView.html?idxno=120302</guid>
+    </item>
+    <item>
+      <title><![CDATA[살맛나는 덕계동 한마음축제, 내일 8일 덕계행정복지센터서 열린다]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=330&amp;idx=43862</link>
+      <pubDate>Sun, 02 Nov 2025 00:28:21 GMT</pubDate>
+      <description><![CDATA[‘2025 살맛나는 덕계동 한마음축제’가 오는 11월 8일 오후 3시 30분부터 덕계행정복지센터 주차장에서 열린다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=330&amp;idx=43862</guid>
     </item>
     <item>
       <title><![CDATA[제1회 양산시니어 가요제, '대상 황문희 씨' 차지]]></title>
