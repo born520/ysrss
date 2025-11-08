@@ -5,7 +5,7 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 07 Nov 2025 14:26:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 00:26:37 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title><![CDATA[박일배 의원, 웅상 불이익 해소 '군 추진' 협조 촉구]]></title>
@@ -42,6 +42,19 @@
         <title>웅상뉴스</title>
       </source>
       <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=272&amp;idx=43871</guid>
+    </item>
+    <item>
+      <title><![CDATA[(양산시 보도뉴스)범어지구 도시재생 인정사업, 아동·청소년과 온]]></title>
+      <link>http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=2060</link>
+      <pubDate>Fri, 07 Nov 2025 00:17:38 GMT</pubDate>
+      <description><![CDATA[범어지구 도시재생 인정사업, 아동·청소년과 온   가족이 함께하는 ‘아이We한마음 축제’11월 8일 개최   양산시는 아동·청소년과 
+지역 주민이 함께 소통하고 화합하는 ‘아이We한마음’ 축제를 오는 11월 8일(토) 10시부터 17시까지 양산시 물금읍 오봉초등학교 
+운동장 일원에서 개최한다고 밝혔습니다.   이번 축제는 범어지구 도시재생 인정사업의 일환으로, 단순히 즐기는 행사를 넘어 도시재생사업을 
+알리고, 새롭게 조성될 ‘아이We한마음 플랫폼’의 활용을 촉진하고 주민 화합을 도모하기 위해 마련됐습...]]></description>
+      <source>
+        <title>양산TV</title>
+      </source>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=2060</guid>
     </item>
     <item>
       <title><![CDATA[웅상 의료공백 메울 ‘양산성모병원’ 내년 3월 개원]]></title>
