@@ -5,7 +5,7 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 13 Nov 2025 08:26:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 09:26:23 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title><![CDATA[소주동 적십자봉사회, 취약계층 추어탕 나눔 행사]]></title>
@@ -36,6 +36,19 @@
         <title>웅상뉴스</title>
       </source>
       <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=260&amp;idx=43878</guid>
+    </item>
+    <item>
+      <title><![CDATA[국내 최초 100% 재생 플라스틱 사용 '칠성사이다']]></title>
+      <link>http://www.ysnewspark.com/news/articleView.html?idxno=16028</link>
+      <pubDate>Thu, 13 Nov 2025 07:02:13 GMT</pubDate>
+      <description><![CDATA[롯데칠성음료의 칠성사이다가 대한민국 최초 재생 플라스틱 원료 100% 사용, 500ml 페트병을 출시한다. 
+롯데칠성음료는 환경부 '자원의 절약과 재활용 촉진에 관한 법률' 본격시행에 앞서 선제적 대응을 위해 이번 제품을 기획했다. 
+롯데칠성음료는 칠성사이다 500ml 페트병에 재생 플라스틱 원료 100%를 사용, 연간 약 2,200t의 플라스틱과 약 2,900t의 
+탄소 배출량을 줄일 것으로 기대하고 있다. 이를 통해 폐플라스틱의 매립소각에 따른 환경영향을 줄이고 탄소중립 및 기후변화 대응에]]></description>
+      <source>
+        <title>양산뉴스파크</title>
+      </source>
+      <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=16028</guid>
     </item>
     <item>
       <title><![CDATA[양산 가야진용신제, 이제는 '4수에 도전해야 하나']]></title>
