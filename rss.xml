@@ -5,7 +5,7 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 18 Nov 2025 09:26:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 10:26:25 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title><![CDATA[박대조, 대통령직속 국가AI 전략위원회 자문위원 위촉]]></title>
@@ -40,6 +40,16 @@
         <title>양산뉴스파크</title>
       </source>
       <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=16044</guid>
+    </item>
+    <item>
+      <title><![CDATA[양산 수돗물 녹조 독성 검출 논란 ‘재점화’]]></title>
+      <link>https://www.yangsanilbo.com/news/articleView.html?idxno=120728</link>
+      <pubDate>Mon, 17 Nov 2025 22:55:00 GMT</pubDate>
+      <description><![CDATA[주장에 반박, 반박에 또 재반박…. '양산 아파트 수돗물 필터에서 검출된 녹조 독성' 관련 논란이 끊이질 않고 있다.양산환경운동연합이 지난 18일 양산시청 민원실 앞에서 '양산시의 무책임한 태도를 규탄한다'며 기자회견을 자청했다. 이는 지난 9월 "양산 아파트 수돗물에서 독소 물질을 생성하는 남세균이 검출됐다"는 주장에 대해, 양산시가 "남세균이 아닌 남세균 DNA로 독성이 있다고 볼 수 없다"고 해명한 사실을 문제 삼은 것이다.이들은 지난 9월 9일 동면 한 아파트 입주민에게 싱크대 수도 필터가 초록색으로 변했다는 제보를 받아 녹]]></description>
+      <source>
+        <title>양산신문</title>
+      </source>
+      <guid isPermaLink="true">https://www.yangsanilbo.com/news/articleView.html?idxno=120728</guid>
     </item>
     <item>
       <title><![CDATA[양산한노총·시설공단, 김병준 레다스 흉부외과 '협약']]></title>
