@@ -5,8 +5,19 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 20 Nov 2025 05:26:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 06:26:21 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[[사람을 만나다] “내 일의 중심은 결국 ‘사람’입니다”]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=262&amp;idx=43899</link>
+      <pubDate>Thu, 20 Nov 2025 05:22:12 GMT</pubDate>
+      <description><![CDATA[고객의 마음을 읽는 일은 단순 수치 계산보다 훨씬 어렵다. 그 마음의 결을 세심하게 살피고 불안의 무게를 덜어주며 한 사람의 내일을 
+설계하는 일을 ‘직업’이 아니라 ‘책임’으로 받아들이는 사람이 있다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=262&amp;idx=43899</guid>
+    </item>
     <item>
       <title><![CDATA[석산지역주택조합, '추가분담금 논란' 조합원들 반발]]></title>
       <link>http://www.ysnewspark.com/news/articleView.html?idxno=16049</link>
@@ -20,6 +31,49 @@
         <title>양산뉴스파크</title>
       </source>
       <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=16049</guid>
+    </item>
+    <item>
+      <title><![CDATA[웅상회야라이온스클럽, 웅상종합사회복지관에 겨울맞이 물품 넥워머 300장 기부]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=317&amp;idx=43898</link>
+      <pubDate>Wed, 19 Nov 2025 20:30:59 GMT</pubDate>
+      <description><![CDATA[웅상회야라이온스클럽(회장 강연순)은 지난 11월 18일, 지역 내 취약계층의 겨울철 방한 지원을 위해 넥워머 300장을 
+웅상종합사회복지관에 기부했다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=317&amp;idx=43898</guid>
+    </item>
+    <item>
+      <title><![CDATA[웅상종합사회복지관 운영위원장,양산드리머FC “경남도지사배 우승” 축하선물 전달]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=317&amp;idx=43897</link>
+      <pubDate>Wed, 19 Nov 2025 20:26:03 GMT</pubDate>
+      <description><![CDATA[웅상종합사회복지관(관장 오경)에서는 지난 15일, 웅상종합사회복지관 운영위원장(이채현)의 후원으로 발달장애인 축구단 양산드리머FC 
+경상남도지사배 우승 축하 (축구용품 더블백)을 선물했다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=317&amp;idx=43897</guid>
+    </item>
+    <item>
+      <title><![CDATA[[문화 소식] 영축산 가을 품은 재능기부 무대, ‘2025 예술아 놀자’ 28일 열린다]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=330&amp;idx=43896</link>
+      <pubDate>Wed, 19 Nov 2025 20:18:54 GMT</pubDate>
+      <description><![CDATA[영축산의 늦가을 향기가 깊어지는 11월, 하북면 초산리 한송예술촌에서 시민들을 위한 따뜻한 재능기부 공연이 마련된다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=330&amp;idx=43896</guid>
+    </item>
+    <item>
+      <title><![CDATA[[지역문화] 김응숙 수필가, 세 번째 수필집 ‘회야천 연가’ 출간… 27일 강변에서 출판기념회]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=334&amp;idx=43895</link>
+      <pubDate>Wed, 19 Nov 2025 20:08:39 GMT</pubDate>
+      <description><![CDATA[양산 지역의 대표 수필가 김응숙 작가가 세 번째 수필집 ‘회야천 연가’를 펴냈다. 이번 신간은 작가가 오랜 시간 걸어온 회야천 
+산책길에서 마주한 풍경과 일상, 그리고 그 사이에 스며든 사람들의 이야기를 잔잔한 문장으로 담아낸 작품이다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=334&amp;idx=43895</guid>
     </item>
     <item>
       <title><![CDATA[[해헌의 독서파크(497)] '지혜를 읽는 시간'-<유디트 글뤼크>]]></title>
