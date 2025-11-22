@@ -5,7 +5,7 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 22 Nov 2025 00:26:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 01:26:22 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title><![CDATA[웅상도서관 인형극동아리 별빛이야기단 ‘은상’ 수상]]></title>
@@ -100,6 +100,19 @@
         <title>양산신문</title>
       </source>
       <guid isPermaLink="true">https://www.yangsanilbo.com/news/articleView.html?idxno=120825</guid>
+    </item>
+    <item>
+      <title><![CDATA[양산의 동정(動靜)/ '양산의 길을 묻다' 토론회 개최]]></title>
+      <link>http://www.oratory.co.kr/news/view.html?section=1&amp;category=3&amp;no=2077</link>
+      <pubDate>Fri, 21 Nov 2025 00:15:02 GMT</pubDate>
+      <description><![CDATA[[양산시민 여러분을 모십니다] 한옥문&amp;양산미래혁신연구원이 개최하는 '양산의 길을 묻다' 토론회에 많은 시민들과 함께 양산의 내일, 
+양산의 미래를 그려보는 시간이 되길 희망합니다. 일시 : 2025년 11월 25일(화) 오후 4시 장소 : 양산디자인센터 
+컨벤션홀(물금읍 가촌리 1312-4) 한옥문&amp;양산미래혁신연구원 원장 한옥문 올림 #한옥문 #양산미래혁신연구원 #토론회개최 ※취재 편집 
+및 영상제작 후원은(카카오뱅크: 3333-35-0263877) / 예금주: 김진성_기자) (선량한 시민을 위한 언론_양산TV)]]></description>
+      <source>
+        <title>양산TV</title>
+      </source>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=1&amp;category=3&amp;no=2077</guid>
     </item>
     <item>
       <title><![CDATA[두산위브더제니스양산, 부산방문 교통 '획기적' 개선]]></title>
