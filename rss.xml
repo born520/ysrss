@@ -5,8 +5,21 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 24 Nov 2025 10:27:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 11:26:26 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[외국인근로자 대상 162억원 '고이자 불법대부' 적발]]></title>
+      <link>http://www.ysnewspark.com/news/articleView.html?idxno=16062</link>
+      <pubDate>Mon, 24 Nov 2025 04:57:39 GMT</pubDate>
+      <description><![CDATA[미등록 대부업체를 차려놓고 국내 체류 외국인 근로자 9,000여 명을 상대로 162억원의 불법 대부를 한 
+일당들이 경찰에 검거됐다. 부산경찰청(청장 엄성규) 반부패·경제범죄수사대는 24일 대부업 등의 등록 및 금융이용자 보호에 관한 법률위반 
+등의 혐의로 불법 대부업체 운영일당 6명을 검거해 대표 A씨(30대) 등 3명을 구속하고 범행가담 직원 3명을 불구속 송치했다. 또 
+지난 2020년 2월 해외로 도주한 주범 B씨(60대)에 대해서는 인터폴 적색수배를 내렸다. 구속된 A씨 등은 직원들을 고용해 미등록]]></description>
+      <source>
+        <title>양산뉴스파크</title>
+      </source>
+      <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=16062</guid>
+    </item>
     <item>
       <title><![CDATA[양산시 인구증가에 양산시가 한 일은 별로 없다]]></title>
       <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=313&amp;idx=43915</link>
@@ -17593,19 +17606,6 @@ MBC경남 뉴스에 보도되었습니다. 어떤 내용인지 잠깐 보시겠�
         <title>양산뉴스파크</title>
       </source>
       <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=3330</guid>
-    </item>
-    <item>
-      <title><![CDATA[양산시 여자배구단 전국체전 우승 '2연패 달성']]></title>
-      <link>http://www.ysnewspark.com/news/articleView.html?idxno=3327</link>
-      <pubDate>Wed, 12 Oct 2016 22:43:25 GMT</pubDate>
-      <description><![CDATA[양산시 여자배구단(감독 강호경)이 충청남도 아산시에서 열리고 있는 '제97회 전국체육대회'에서 대구시청을 물리치고 2연패의 위업을 
-달성했다. 양산시 여자배구단은 이번 체전에서 3전 전승으로 1회전에는 전남을, 2회전은 부산, 결승전에서는 대구 등과 겨루며 단 
-한세트도 내주지 않는 압도적인 실력으로 우승을 달성, 전국의 실업여자배구 최강자임을 다시 한번 확인했다. 이번 우승으로 지난 2003년 
-양산시청 여자배구팀이 창단한 이래 전국체전에서 6차례나 우승하는 쾌거를 이뤘다. 양산시 관계자는 "이번 여자배구단의 우승낭보가]]></description>
-      <source>
-        <title>양산뉴스파크</title>
-      </source>
-      <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=3327</guid>
     </item>
   </channel>
 </rss>
