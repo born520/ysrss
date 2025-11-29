@@ -5,8 +5,22 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 28 Nov 2025 14:26:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 00:26:25 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[상북 김종규 오룡마을 이장 '국회의원 표창장' 수상]]></title>
+      <link>http://www.ysnewspark.com/news/articleView.html?idxno=16072</link>
+      <pubDate>Fri, 28 Nov 2025 12:45:38 GMT</pubDate>
+      <description><![CDATA[양산시 상북면 오룡마을 김종규 이장이 지역에 헌신적으로 활동하며 주민과의 소통, 모범적 이장활동을 펼친 
+노력을 평가받아 양산 갑 지역의 윤영석 국회의원(4선·국회 기획재정위원회)으로부터 표창장을 수상했다. 김 이장은 지난 2024년 
+오룡마을 이장에 취임해 활동을 전개해오면서 마을주민들의 화합과 발전을 위해 경로 및 나들이잔치 등 다른 지역과는 차별화된 다양한 
+프로그램으로, 마을주민들의 소통에 적극적인 노력을 펼쳐왔다. 또 지역내 소외계층을 위해 지속적으로 봉사활동 및 불우이웃돕기 성금을 
+전달하며 나눔봉사]]></description>
+      <source>
+        <title>양산뉴스파크</title>
+      </source>
+      <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=16072</guid>
+    </item>
     <item>
       <title><![CDATA[[불교문화] 천성산 미타암, “희망의 미소” 모래 포대화상과 새 공양간 준공]]></title>
       <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=332&amp;idx=43918</link>
@@ -17,6 +31,19 @@
         <title>웅상뉴스</title>
       </source>
       <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=332&amp;idx=43918</guid>
+    </item>
+    <item>
+      <title><![CDATA[(부울경메가시티뉴스)경남도, 누리호 4차 발사 성공 축하]]></title>
+      <link>http://www.oratory.co.kr/news/view.html?section=115&amp;category=118&amp;no=2085</link>
+      <pubDate>Fri, 28 Nov 2025 07:30:34 GMT</pubDate>
+      <description><![CDATA[경남도, 누리호 4차 발사 성공 축하​“누리호 성공, 그 시작은 경남... 경남 기술력 세계에 알렸다   - 27일 새벽, 전남 고흥 
+나로우주센터서 누리호 4차 발사 성공- 민간 주도 체계종합 첫 사례... 대한민국 우주기술 도약의 전환점- 도내 기업 
+한화에어로스페이스, 구성품 제작‧조립‧발사 운영 총괄- 한국항공우주산업·두원중공업·현대로템 등 경남 기업 기술력 입증   
+경상남도(도지사 박완수)는 27일 새벽 전남 고흥 나로우주센터에서 진행된 한국형 발사체 누리호 4차 발사 성공을 축하했습니다. ...]]></description>
+      <source>
+        <title>양산TV</title>
+      </source>
+      <guid isPermaLink="true">http://www.oratory.co.kr/news/view.html?section=115&amp;category=118&amp;no=2085</guid>
     </item>
     <item>
       <title><![CDATA[울산항만공사, ‘제9회 울산항 항만안전 콘퍼런스’ 개최...지속가능 항만운영 방향성 논의]]></title>
@@ -700,16 +727,6 @@
       <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=16066</guid>
     </item>
     <item>
-      <title><![CDATA[2026년도 노인일자리·사회활동지원사업 참여자 1375명 모집]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43916</link>
-      <pubDate>Wed, 26 Nov 2025 02:13:02 GMT</pubDate>
-      <description><![CDATA[웅상시니어클럽은 2026년도 노인일자리 및 사회활동지원사업 참여자를 총 1375명 규모로 모집한다고 밝혔다.]]></description>
-      <source>
-        <title>웅상뉴스</title>
-      </source>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43916</guid>
-    </item>
-    <item>
       <title><![CDATA[수그러들지 않는 양산 수돗물 독성 논란, 벌써 ‘3라운드’]]></title>
       <link>https://www.yangsanilbo.com/news/articleView.html?idxno=120917</link>
       <pubDate>Tue, 25 Nov 2025 22:50:00 GMT</pubDate>
@@ -1150,6 +1167,16 @@
       <guid isPermaLink="true">https://www.yangsanilbo.com/news/articleView.html?idxno=120904</guid>
     </item>
     <item>
+      <title><![CDATA[2026년도 노인일자리·사회활동지원사업 참여자 1375명 모집]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43916</link>
+      <pubDate>Tue, 25 Nov 2025 20:08:36 GMT</pubDate>
+      <description><![CDATA[웅상시니어클럽은 2026년도 노인일자리 및 사회활동지원사업 참여자를 총 1375명 규모로 모집한다고 밝혔다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43916</guid>
+    </item>
+    <item>
       <title><![CDATA[(양산시 보도뉴스)아이스쿨어린이집, 물금읍에 이웃돕기 후원금 50만원]]></title>
       <link>http://www.oratory.co.kr/news/view.html?section=1&amp;category=5&amp;no=2080</link>
       <pubDate>Tue, 25 Nov 2025 07:43:06 GMT</pubDate>
@@ -1190,17 +1217,6 @@
       <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=16065</guid>
     </item>
     <item>
-      <title><![CDATA[양산, 국제문화도시로 도약… 제3회 인도국제영화제 개막]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=332&amp;idx=43919</link>
-      <pubDate>Tue, 25 Nov 2025 01:10:43 GMT</pubDate>
-      <description><![CDATA[주한인도대사관과 주한인도문화원이 주최하고 좋은양산포럼·인디아센터가 주관하는 제3회 양산인도국제영화제가 지난 24일 쌍벽루아트홀에서 
-개막했다.]]></description>
-      <source>
-        <title>웅상뉴스</title>
-      </source>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=332&amp;idx=43919</guid>
-    </item>
-    <item>
       <title><![CDATA[연말연시 음주운전 사고예방 '경찰력 최대동원' 단속]]></title>
       <link>http://www.ysnewspark.com/news/articleView.html?idxno=16064</link>
       <pubDate>Mon, 24 Nov 2025 23:33:06 GMT</pubDate>
@@ -1226,6 +1242,17 @@
         <title>양산뉴스파크</title>
       </source>
       <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=16063</guid>
+    </item>
+    <item>
+      <title><![CDATA[양산, 국제문화도시로 도약… 제3회 인도국제영화제 개막]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=332&amp;idx=43919</link>
+      <pubDate>Mon, 24 Nov 2025 20:10:13 GMT</pubDate>
+      <description><![CDATA[주한인도대사관과 주한인도문화원이 주최하고 좋은양산포럼·인디아센터가 주관하는 제3회 양산인도국제영화제가 지난 24일 쌍벽루아트홀에서 
+개막했다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=332&amp;idx=43919</guid>
     </item>
     <item>
       <title><![CDATA[양산시도 인구 소멸 추세에 인구 증가 정책 총력 해야]]></title>
@@ -18706,19 +18733,6 @@ MBC경남 뉴스에 보도되었습니다. 어떤 내용인지 잠깐 보시겠�
         <title>양산뉴스파크</title>
       </source>
       <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=3353</guid>
-    </item>
-    <item>
-      <title><![CDATA[양산시설관리공단, 태풍피해돕기 성금 전달]]></title>
-      <link>http://www.ysnewspark.com/news/articleView.html?idxno=3352</link>
-      <pubDate>Tue, 18 Oct 2016 00:48:20 GMT</pubDate>
-      <description><![CDATA[양산시시설관리공단(이사장 정태식) 임직원들이 태풍피해 수재민 지원을 위한 성금 318만원을 나동연 양산시장에게 전달했다. 
-양산시시설관리공단은 17일 수해를 당한 주민들의 태풍피해를 최소화하기 위해 전 직원이 대민지원에 힘을 모았다. 공단은 수해피해 주민의 
-고통을 함께 나누고 실질적인 도움을 주기 위해 자발적 모금활동에 동참했다. 정태식 이사장은 "복구가 불가능할거라 포기한 피해주민들에게 
-작은 힘이지만 도움이 되서 신속하게 복구작업이 마무리되기를 기대한다"며 "피해시민들이 하루 빨리 일상생활로 돌아오기를 바란다"고 전했다.]]></description>
-      <source>
-        <title>양산뉴스파크</title>
-      </source>
-      <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=3352</guid>
     </item>
   </channel>
 </rss>
