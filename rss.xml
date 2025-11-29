@@ -5,7 +5,7 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 29 Nov 2025 00:26:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 01:26:23 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title><![CDATA[상북 김종규 오룡마을 이장 '국회의원 표창장' 수상]]></title>
@@ -540,6 +540,16 @@
         <title>웅상뉴스</title>
       </source>
       <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=306&amp;idx=43917</guid>
+    </item>
+    <item>
+      <title><![CDATA[[미래도시] 양산, 제조도시를 넘어 미래도시로… ‘양산의 길을 묻다’ 정책토론회 성황]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43920</link>
+      <pubDate>Thu, 27 Nov 2025 22:28:01 GMT</pubDate>
+      <description><![CDATA[양산의 성장 경로를 재점검하고 새로운 미래 전략을 모색하는 정책토론회가 시민 200여 명이 참여한 가운데 열렸다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43920</guid>
     </item>
     <item>
       <title><![CDATA[신양산MJF라이온스클럽, 김장나눔 후원금 전달]]></title>
