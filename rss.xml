@@ -5,8 +5,18 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 02 Dec 2025 09:26:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 10:26:24 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[울산항만공사, 국내 최초 ‘여권 리더기 기반 외국적 선원 출입관리 시스템’ 도입]]></title>
+      <link>https://www.yangsanilbo.com/news/articleView.html?idxno=121117</link>
+      <pubDate>Tue, 02 Dec 2025 01:14:00 GMT</pubDate>
+      <description><![CDATA[국내 항만 최초로 여권 리더기를 기반으로 한 외국적 선원 출입관리 시스템이 울산항에 도입됐다.울산항만공사(UPA, 사장 변재영)는 외국적 선원의 출입정보를 전산으로 자동화해 출입정보의 정확성과 보안성을 강화할 수 있도록 출입관리 시스템을 업그레이드 했다고 밝혔다.그동안 외국적 선원이 항만을 출입 할 때는 여권정보를 수기로 입력하거나 수작업으로 대조하는 방식이 주로 사용되어 왔다.이에 울산항만공사는 ‘AI 3대 강국’이라는 국정목표에 발맞춰 외국적 선원의 출입 정보를 기계 판독 방식으로 자동 수집하는 체계를]]></description>
+      <source>
+        <title>양산신문</title>
+      </source>
+      <guid isPermaLink="true">https://www.yangsanilbo.com/news/articleView.html?idxno=121117</guid>
+    </item>
     <item>
       <title><![CDATA[이용식 의원, "자원봉사 활성화 위해 예우강화 필요"]]></title>
       <link>http://www.ysnewspark.com/news/articleView.html?idxno=16085</link>
