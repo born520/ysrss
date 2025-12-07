@@ -5,8 +5,18 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 06 Dec 2025 14:26:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 00:26:31 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[GS건설 ‘양산자이 파크팰리체’ 절찬리 분양]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=277&amp;idx=43933</link>
+      <pubDate>Sat, 06 Dec 2025 20:55:47 GMT</pubDate>
+      <description><![CDATA[양산시 평산동 일원에서 첫 GS건설 ‘자이(Xi)파크팰리체’를 절찬리 분양을 하고 있다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=277&amp;idx=43933</guid>
+    </item>
     <item>
       <title><![CDATA[양산 8경, '12경으로 확대'···황산공원 등 4곳 더 추가]]></title>
       <link>http://www.ysnewspark.com/news/articleView.html?idxno=16104</link>
@@ -21,26 +31,37 @@
       <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=16104</guid>
     </item>
     <item>
-      <title><![CDATA[[기고] 웅상이 도시화로 가는 길에 주역이 된 가문]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=310&amp;idx=43932</link>
-      <pubDate>Sat, 06 Dec 2025 01:01:25 GMT</pubDate>
+      <title><![CDATA[웅상이 도시화로 가는 길에 주역이 된 가문]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=314&amp;idx=43932</link>
+      <pubDate>Fri, 05 Dec 2025 23:14:19 GMT</pubDate>
       <description><![CDATA[16세기 중반경에 웅상면 명곡에 정착한 울산박씨 가문은 500여년간 이 고장을 지키는데 앞장서 왔고 근대 웅상이 도시화로 갈 수 있는 
 여건 조성에도 주도적 역할을 했다.]]></description>
       <source>
         <title>웅상뉴스</title>
       </source>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=310&amp;idx=43932</guid>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=314&amp;idx=43932</guid>
     </item>
     <item>
       <title><![CDATA[[문화] 풀꽃시인 나태주 초청 인문학 강좌, 12월 18일 웅상문화체육센터서 열린다]]></title>
       <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=333&amp;idx=43931</link>
-      <pubDate>Sat, 06 Dec 2025 00:39:46 GMT</pubDate>
+      <pubDate>Fri, 05 Dec 2025 18:10:55 GMT</pubDate>
       <description><![CDATA[풀꽃시인 나태주 시인을 초청한 인문학 강좌가 오는 12월 18일 오후 6시 30분, 웅상문화체육센터 공연장에서 열린다. ‘자세히 보아야 
 예쁘다, 오래 보아야 사랑스럽다’로 널리 알려진 나태주 시인의 시세계를 시민들이 가까이에서 만나는 자리다.]]></description>
       <source>
         <title>웅상뉴스</title>
       </source>
       <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=333&amp;idx=43931</guid>
+    </item>
+    <item>
+      <title><![CDATA[[기고] 웅상이 도시화로 가는 길에 주역이 된 가문]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=310&amp;idx=43932</link>
+      <pubDate>Fri, 05 Dec 2025 18:09:32 GMT</pubDate>
+      <description><![CDATA[16세기 중반경에 웅상면 명곡에 정착한 울산박씨 가문은 500여년간 이 고장을 지키는데 앞장서 왔고 근대 웅상이 도시화로 갈 수 있는 
+여건 조성에도 주도적 역할을 했다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=310&amp;idx=43932</guid>
     </item>
     <item>
       <title><![CDATA[[기행 문화탐방] 구름의 나라, 황산·구화산을 걷다]]></title>
