@@ -5,7 +5,7 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Tue, 09 Dec 2025 09:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 10:26:25 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title><![CDATA["정체된 양산, 젊은엔진 교체"···서상태, '시장 출마']]></title>
@@ -19,6 +19,16 @@
         <title>양산뉴스파크</title>
       </source>
       <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=16114</guid>
+    </item>
+    <item>
+      <title><![CDATA[서상태 전 보좌관, 내년 6.3 선거 양산시장에 도전]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&amp;idx=43940</link>
+      <pubDate>Tue, 09 Dec 2025 07:38:37 GMT</pubDate>
+      <description><![CDATA[서상태(45) 전 국회의원 보좌관이 2026년 전국동시지방선거 양산시장 출마를 공식 선언했다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&amp;idx=43940</guid>
     </item>
     <item>
       <title><![CDATA[(부울경메가시티뉴스)경남도의회, 2025 크리스마스씰 기부금 전달식 가져]]></title>
