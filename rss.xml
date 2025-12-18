@@ -5,8 +5,18 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 18 Dec 2025 04:26:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 05:26:21 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[외갓집 뜰 같은 쉼이 머무는 곳, 백동마을 찻집 ‘뜨락’]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=276&amp;idx=43958</link>
+      <pubDate>Thu, 18 Dec 2025 05:06:32 GMT</pubDate>
+      <description><![CDATA[백동마을 골목 안쪽 찻집 ‘뜨락’의 문을 열고 들어서면 시간이 천천히 흘러간다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=276&amp;idx=43958</guid>
+    </item>
     <item>
       <title><![CDATA[양산 시승격 30주년 기념 '슬로건과 엠블럼' 선정]]></title>
       <link>http://www.ysnewspark.com/news/articleView.html?idxno=16145</link>
@@ -19,6 +29,16 @@
         <title>양산뉴스파크</title>
       </source>
       <guid isPermaLink="true">http://www.ysnewspark.com/news/articleView.html?idxno=16145</guid>
+    </item>
+    <item>
+      <title><![CDATA[[연말 기획 인터뷰] “보이지 않는 자리에서 쌓아온 시간” 웅상발전협의회 이창훈 회장]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=268&amp;idx=43957</link>
+      <pubDate>Thu, 18 Dec 2025 03:15:17 GMT</pubDate>
+      <description><![CDATA[연말과 새해의 문턱에서 웅상발전협의회 이창훈 회장을 만나, 지난 한 해 웅상 지역에서 일어난 변화들을 돌아보았다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=268&amp;idx=43957</guid>
     </item>
     <item>
       <title><![CDATA[웅상의 강태영 의원, 폭언·욕설·갑질 논란 일파만파]]></title>
