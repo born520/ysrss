@@ -5,8 +5,19 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Sat, 20 Dec 2025 01:26:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 02:26:24 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[400년 만에 돌아온 법기리 사발, 양산에서 다시 빚다]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=330&amp;idx=43963</link>
+      <pubDate>Fri, 19 Dec 2025 23:51:37 GMT</pubDate>
+      <description><![CDATA[국가사적 제100호 양산 법기리요지를 조명하는 ‘2025 법기도자 명품전’이 지난 12월 18일 오후 4시, 양산시립박물관 
+기획전시실에서 개막했다. 전시는 12월 28일까지 이어진다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=330&amp;idx=43963</guid>
+    </item>
     <item>
       <title><![CDATA[[갤러리휴](83) '사진이야기 회원전' 개최]]></title>
       <link>https://www.yangsanilbo.com/news/articleView.html?idxno=121574</link>
@@ -16,6 +27,16 @@
         <title>양산신문</title>
       </source>
       <guid isPermaLink="true">https://www.yangsanilbo.com/news/articleView.html?idxno=121574</guid>
+    </item>
+    <item>
+      <title><![CDATA[“배움에서 실천으로”… 영산대 양산 퍼스트리더 동문회, 새 리더십 출항]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=286&amp;idx=43962</link>
+      <pubDate>Fri, 19 Dec 2025 22:21:48 GMT</pubDate>
+      <description><![CDATA[영산대학교 양산 퍼스트리더 동문회 제9대·제10대 회장 이·취임식이 지난 12월 17일 영산대학교 홍익2관 대강당에서 열렸다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=286&amp;idx=43962</guid>
     </item>
     <item>
       <title><![CDATA[“중심보다 균형을 택하다” 정재석 웅상청년회의소 제30대 회장]]></title>
