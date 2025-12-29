@@ -5,8 +5,18 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Mon, 29 Dec 2025 00:26:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 01:26:28 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[제74회 ‘금요일의 기타詩’, 천성문화예술한마당 수상자들과 함께하다]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=333&amp;idx=43978</link>
+      <pubDate>Mon, 29 Dec 2025 00:02:30 GMT</pubDate>
+      <description><![CDATA[“끝은 끝이 아닙니다. 또 다른 시작의 경계일 뿐입니다.”]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=333&amp;idx=43978</guid>
+    </item>
     <item>
       <title><![CDATA[[해헌의 독서파크(508)] '한국인을 위한 인생론'-<달라이 라마>]]></title>
       <link>http://www.ysnewspark.com/news/articleView.html?idxno=16176</link>
@@ -24734,17 +24744,6 @@ MBC경남 뉴스에 보도되었습니다. 어떤 내용인지 잠깐 보시겠�
         <title>웅상뉴스</title>
       </source>
       <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=316&amp;idx=43733</guid>
-    </item>
-    <item>
-      <title><![CDATA[베트남 독립 80주년 기념행사, 양산서 성황리에 열려]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43732</link>
-      <pubDate>Tue, 02 Sep 2025 22:11:26 GMT</pubDate>
-      <description><![CDATA[사단법인 희망웅상(대표 서일광)은 지난 8월 31일 오후 2시, 서창초등학교 강당에서 베트남 독립 80주년(1945년 9월 2일) 
-기념행사를 성대히 개최했다.]]></description>
-      <source>
-        <title>웅상뉴스</title>
-      </source>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&amp;idx=43732</guid>
     </item>
   </channel>
 </rss>
