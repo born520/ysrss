@@ -5,8 +5,19 @@
     <link>https://born520.github.io/ysrss/</link>
     <description>양산뉴스파크, 웅상뉴스, 양산TV, 양산신문의 최신 기사를 모아보는 통합 RSS 피드입니다.</description>
     <language>ko</language>
-    <lastBuildDate>Thu, 01 Jan 2026 14:26:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 00:26:22 GMT</lastBuildDate>
     <atom:link href="https://born520.github.io/ysrss/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title><![CDATA[​2026년 병오년(丙午年) 새해 첫날 한반도에서 가장 빠른 천성산 해돋이 행사 성황리에 열려]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&amp;idx=43979</link>
+      <pubDate>Thu, 01 Jan 2026 13:31:57 GMT</pubDate>
+      <description><![CDATA[양산시는 2026년 병오년(丙午年) 새해 첫날인 1월 1일 한반도에서 일출을 가장 먼저 볼 수 있는 천성산 원효봉 천성대 일원에서 
+‘천성산 해맞이 행사’가 성황리에 개최됐다고 밝혔다.]]></description>
+      <source>
+        <title>웅상뉴스</title>
+      </source>
+      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&amp;idx=43979</guid>
+    </item>
     <item>
       <title><![CDATA[2026년 새해 천성산 해맞이 행사' 인파 2천명 몰려]]></title>
       <link>http://www.ysnewspark.com/news/articleView.html?idxno=16188</link>
@@ -24799,16 +24810,6 @@ MBC경남 뉴스에 보도되었습니다. 어떤 내용인지 잠깐 보시겠�
         <title>웅상뉴스</title>
       </source>
       <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=270&amp;idx=43734</guid>
-    </item>
-    <item>
-      <title><![CDATA[소주동 착한이웃 나눔냉장고 운영 재개]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=316&amp;idx=43733</link>
-      <pubDate>Wed, 03 Sep 2025 22:25:49 GMT</pubDate>
-      <description><![CDATA[혹서기 장마와 폭염 등 계절적 요인으로 발생할 수 있는 재난사고]]></description>
-      <source>
-        <title>웅상뉴스</title>
-      </source>
-      <guid isPermaLink="true">http://www.ungsangnews.com/default/index_view_page.php?part_idx=316&amp;idx=43733</guid>
     </item>
   </channel>
 </rss>
