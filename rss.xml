@@ -4,7 +4,19 @@
     <title>양산 통합 뉴스</title>
     <link>https://born520.github.io/ysrss/</link>
     <description>양산 지역 뉴스 통합 피드</description>
-    <lastBuildDate>Tue, 10 Feb 2026 06:26:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 07:26:15 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[양산 어곡동 에덴밸리리조트 인근 '풍력발전기 화재']]></title>
+      <link>http://www.ysnewspark.com/news/articleView.html?idxno=16295</link>
+      <pubDate>Tue, 10 Feb 2026 13:26:41 GMT</pubDate>
+      <description><![CDATA[[양산뉴스파크=남성봉 기자]=양산에서는 2일 동안 연이어 야산과 풍력발전기에서 화재가 발생, 주의가 요망되고 있다. 10일 오전 
+8시37분경 양산시 어곡동 에덴벨리리조트 인근에 설치된 풍력발전기 헤드부분에서 화재가 발생했다. 이날 풍력발전기 날개 뒷쪽 헤드부분에 
+연기가 나와 화재가 발생한 것을 풍력발전기 측 현장소장이 확인, 119에 신고한 것으로 알려졌다. 화재가 발생한 풍력발전기가 위치한 
+에덴밸리리조트 인근은 고도가 높고 바람이 거세 풍력기에서 발생한 불티가 인근 산과 신불산 공원묘지 등의 방향으로 날아들어 확산될 우려가 
+높았다]]></description>
+      <source>양산뉴스파크</source>
+      <guid>http://www.ysnewspark.com/news/articleView.html?idxno=16295</guid>
+    </item>
     <item>
       <title><![CDATA[설치만 해놓고 차단해 제 역할 다 못하는 '안전지대']]></title>
       <link>http://www.ysnewspark.com/news/articleView.html?idxno=16294</link>
@@ -15,6 +27,17 @@
 지선유도봉을 설치, 이용이 불가해 사실상 제기능을 하지 못하고 있다. 그동안 계속 개방되어 있던 이 공간은 일명 '포켓차로']]></description>
       <source>양산뉴스파크</source>
       <guid>http://www.ysnewspark.com/news/articleView.html?idxno=16294</guid>
+    </item>
+    <item>
+      <title><![CDATA[(양산시 보도뉴스)하북면 ‘착한나눔가게 52호점’ 협약식]]></title>
+      <link>http://www.oratory.co.kr/news/view.html?section=1&category=5&no=2175</link>
+      <pubDate>Tue, 10 Feb 2026 05:27:56 GMT</pubDate>
+      <description><![CDATA[하북면 ‘착한나눔가게 52호점’ 협약식   양산시 하북면지역사회보장협의체(공공위원장 배은정, 민간위원장 김만재)는 9일 착한나눔가게 
+52호점 협약식을 가졌다고 밝혔습니다.   이번 착한나눔가게 52호점은 하북면 통도사로 60-1 소재 ‘통도찰보리’입니다.   
+통도찰보리 최나리 대표는 “작은 정성이지만 지역사회에 보탬이 될 수 있어 기쁘다”며 “앞으로도 나눔 활동에 적극적으로 참여하겠다”고 
+전했습니다.김만재 민간위원장은 “이웃을 위한 따뜻한 나눔에 동참해 주신 통도찰보리 최나리 대표에...]]></description>
+      <source>양산TV</source>
+      <guid>http://www.oratory.co.kr/news/view.html?section=1&category=5&no=2175</guid>
     </item>
     <item>
       <title><![CDATA[울산항만공사, 설 연휴기간 ‘울산항 항만운영 및 항만보안 강화 특별대책’ 수립 운영]]></title>
@@ -4319,23 +4342,6 @@ LED]]></description>
 밝혔다.]]></description>
       <source>웅상뉴스</source>
       <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&idx=44012</guid>
-    </item>
-    <item>
-      <title><![CDATA[양산시, 상반기 공공근로·지역공동체 일자리 참여 모집]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&idx=44011</link>
-      <pubDate>Mon, 12 Jan 2026 01:49:29 GMT</pubDate>
-      <description><![CDATA[양산시가 취업 취약계층의 생계 안정을 지원하고 지역사회 발전에 기여하기 위해 ‘2026년 상반기 공공근로 및 지역공동체 일자리 사업’ 
-참여자를 모집한다.]]></description>
-      <source>웅상뉴스</source>
-      <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&idx=44011</guid>
-    </item>
-    <item>
-      <title><![CDATA[제3기 덕계동 주민자치회 출범 및 이·취임식 개최]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=284&idx=44010</link>
-      <pubDate>Mon, 12 Jan 2026 01:44:23 GMT</pubDate>
-      <description><![CDATA[양산시 덕계동은 지난 8일 제3기 덕계동 주민자치회가 출범식을 갖고]]></description>
-      <source>웅상뉴스</source>
-      <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=284&idx=44010</guid>
     </item>
   </channel>
 </rss>
