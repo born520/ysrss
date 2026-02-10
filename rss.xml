@@ -4,7 +4,7 @@
     <title>양산 통합 뉴스</title>
     <link>https://born520.github.io/ysrss/</link>
     <description>양산 지역 뉴스 통합 피드</description>
-    <lastBuildDate>Tue, 10 Feb 2026 01:26:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 02:26:19 GMT</lastBuildDate>
     <item>
       <title><![CDATA[설치만 해놓고 차단해 제 역할 다 못하는 '안전지대']]></title>
       <link>http://www.ysnewspark.com/news/articleView.html?idxno=16294</link>
@@ -15,6 +15,14 @@
 지선유도봉을 설치, 이용이 불가해 사실상 제기능을 하지 못하고 있다. 그동안 계속 개방되어 있던 이 공간은 일명 '포켓차로']]></description>
       <source>양산뉴스파크</source>
       <guid>http://www.ysnewspark.com/news/articleView.html?idxno=16294</guid>
+    </item>
+    <item>
+      <title><![CDATA[울산항만공사, 설 연휴기간 ‘울산항 항만운영 및 항만보안 강화 특별대책’ 수립 운영]]></title>
+      <link>https://www.yangsanilbo.com/news/articleView.html?idxno=122834</link>
+      <pubDate>Tue, 10 Feb 2026 01:46:00 GMT</pubDate>
+      <description><![CDATA[[양산신문 강영진 기자] 울산항만공사(UPA, 사장 변재영)는 다가오는 설 연휴기간을 대비해 ‘울산항 항만운영 및 항만보안 강화 특별대책’을 수립해 운영한다고 밝혔다.이에 따라 울산항만공사는 오는 15일부터 18일까지 4일간 울산항의 정상기능 유지와 안전․보안사고 예방을 위해 특별대책반 및 상황실을 운영한다.연휴기간 중 액체화물 취급부두는 휴무 없이 정상 운영 되고, 컨테이너터미널과 일반화물은 설 당일 휴무를 제외하고 부분 운영한다.다만, 긴급화물의 경우 하역작업에 차질이 없도록 사전에 부두운영회사 등에 요청하면 휴무와 관계없이 작]]></description>
+      <source>양산신문</source>
+      <guid>https://www.yangsanilbo.com/news/articleView.html?idxno=122834</guid>
     </item>
     <item>
       <title><![CDATA[양산 원동면 야산 '대나무 밭 화재발생' 주민대피]]></title>
@@ -4328,14 +4336,6 @@ LED]]></description>
       <description><![CDATA[양산시 덕계동은 지난 8일 제3기 덕계동 주민자치회가 출범식을 갖고]]></description>
       <source>웅상뉴스</source>
       <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=284&idx=44010</guid>
-    </item>
-    <item>
-      <title><![CDATA[양산시, 2026년 기초생활보장 지원 확대·기준 완화]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=304&idx=44009</link>
-      <pubDate>Mon, 12 Jan 2026 01:33:41 GMT</pubDate>
-      <description><![CDATA[양산시는 2026년 기준 중위소득 인상과 기초생활보장제도 수급자 선정기준 완화에 따라 기초생활보장 급여 지원을 확대한다.]]></description>
-      <source>웅상뉴스</source>
-      <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=304&idx=44009</guid>
     </item>
   </channel>
 </rss>
