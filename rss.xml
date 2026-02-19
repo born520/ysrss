@@ -4,7 +4,7 @@
     <title>양산 통합 뉴스</title>
     <link>https://born520.github.io/ysrss/</link>
     <description>양산 지역 뉴스 통합 피드</description>
-    <lastBuildDate>Thu, 19 Feb 2026 01:26:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 02:26:24 GMT</lastBuildDate>
     <item>
       <title><![CDATA[[해헌의 독서파크(523)] '베리 심플(Very Simple)'-<스즈키 에이치>]]></title>
       <link>http://www.ysnewspark.com/news/articleView.html?idxno=16311</link>
@@ -69,14 +69,6 @@
       <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=260&idx=44066</guid>
     </item>
     <item>
-      <title><![CDATA[[6·3 지방선거 특별기획: 우리 동네 일꾼을 만나다] “웅상의 멈춘 심장을 다시 뛰게 하겠습니다”]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&idx=44062</link>
-      <pubDate>Sun, 15 Feb 2026 04:35:34 GMT</pubDate>
-      <description><![CDATA[6년 넘게 웅상을 지켜온 ‘진짜 웅상맨’ 김대부 전 (사)양산시웅상상공인연합회 회장이]]></description>
-      <source>웅상뉴스</source>
-      <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&idx=44062</guid>
-    </item>
-    <item>
       <title><![CDATA[한 표 차이가 만든 ‘싸움 정치’의 비극]]></title>
       <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=313&idx=44065</link>
       <pubDate>Sun, 15 Feb 2026 04:21:42 GMT</pubDate>
@@ -99,6 +91,14 @@
       <description><![CDATA[양산시의회의원 바선거구(서창·소주) 출마 예정자인 전)양산시의회 이장호 전 의원이]]></description>
       <source>웅상뉴스</source>
       <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&idx=44063</guid>
+    </item>
+    <item>
+      <title><![CDATA[[6·3 지방선거 특별기획: 우리 동네 일꾼을 만나다] “웅상의 멈춘 심장을 다시 뛰게 하겠습니다”]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&idx=44062</link>
+      <pubDate>Sun, 15 Feb 2026 00:33:41 GMT</pubDate>
+      <description><![CDATA[6년 넘게 웅상을 지켜온 ‘진짜 웅상맨’ 김대부 전 (사)양산시웅상상공인연합회 회장이]]></description>
+      <source>웅상뉴스</source>
+      <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&idx=44062</guid>
     </item>
     <item>
       <title><![CDATA[[포토]"추위야 가라"…봄을 재촉하는 통도사 홍매화]]></title>
