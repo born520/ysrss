@@ -4,7 +4,7 @@
     <title>양산 통합 뉴스</title>
     <link>https://born520.github.io/ysrss/</link>
     <description>양산 지역 뉴스 통합 피드</description>
-    <lastBuildDate>Fri, 24 Apr 2026 07:26:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 08:26:15 GMT</lastBuildDate>
     <item>
       <title><![CDATA[양산 '종량제 봉투가격 인하' 서민경제 도움 기대]]></title>
       <link>http://www.ysnewspark.com/news/articleView.html?idxno=16574</link>
@@ -16,6 +16,14 @@
 생활비]]></description>
       <source>양산뉴스파크</source>
       <guid>http://www.ysnewspark.com/news/articleView.html?idxno=16574</guid>
+    </item>
+    <item>
+      <title><![CDATA[울산항만공사, 울산항 동판 해도 기반 디지털 콘텐츠 제작]]></title>
+      <link>https://www.yangsanilbo.com/news/articleView.html?idxno=124433</link>
+      <pubDate>Fri, 24 Apr 2026 08:08:00 GMT</pubDate>
+      <description><![CDATA[[양산신문 강영진 기자] 울산항만공사(UPA, 사장 변재영)는 지난해 12월 공사 1층에 설치한 울산항 동판 해도의 이해도 제고를 위해 무인 안내기를 추가 설치해 정보제공을 실시한다고 24일 밝혔다.울산항만공사 방문객들은 무인 안내기를 통해 1960년대 울산항의 개발 이전부터 현재까지의 울산항의 역사를 한눈에 확인할 수 있다.또한 무인 안내기에는 울산항만공사 누리집과 ‘울산항의 역사’ 소리책으로 연결되는 큐알(QR)코드가 포함되어 장애인의 지식 장벽 해소에도 기여할 것으로 기대된다.지난해 울산항만공사가 발간한 ‘울산항의 역사’는 시]]></description>
+      <source>양산신문</source>
+      <guid>https://www.yangsanilbo.com/news/articleView.html?idxno=124433</guid>
     </item>
     <item>
       <title><![CDATA[구인/ 웅상지역 병원에서 근무하시게 될 가족을 모십니다]]></title>
@@ -4431,15 +4439,6 @@ Festivals)이 주최하는 글로벌 브랜드 시상식인 이 행사는 자체
       <description><![CDATA[“웅상은 더 이상 양산의 끝이 아니라, 부울경 메가시티를 잇는 거대한 심장이 되어야 합니다.”]]></description>
       <source>웅상뉴스</source>
       <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=284&idx=44161</guid>
-    </item>
-    <item>
-      <title><![CDATA[[밀착현장] “이전도 중단도 불가”… 양산 평산동 코아루 아파트 송전탑 갈등 ‘출구 없는 늪’]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&idx=44162</link>
-      <pubDate>Sat, 28 Mar 2026 19:13:07 GMT</pubDate>
-      <description><![CDATA[평산동 옥내형 송전탑 설치를 둘러싼 갈등이 ‘이전 불가’와 ‘공사 중단 불가’라는 이중의 벽에 부딪히며 파국으로 치닫고 있다. 주민들이 
-희망을 걸었던 이설 용역은 부적합 판정으로 끝났고, 법원마저 행정의 손을 들어주면서 사업 추진은 더욱 속도를 낼 전망이다.]]></description>
-      <source>웅상뉴스</source>
-      <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=315&idx=44162</guid>
     </item>
   </channel>
 </rss>
