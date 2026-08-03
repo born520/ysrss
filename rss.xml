@@ -4,7 +4,15 @@
     <title>양산 통합 뉴스</title>
     <link>https://born520.github.io/ysrss/</link>
     <description>양산 지역 뉴스 통합 피드</description>
-    <lastBuildDate>Mon, 03 Aug 2026 14:26:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 23:26:18 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[물금역~수서역 직결 SRT, 9월 1일부터 운행]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=306&idx=44444</link>
+      <pubDate>Mon, 03 Aug 2026 01:00:47 GMT</pubDate>
+      <description><![CDATA[양산 물금역과 서울 수서역을 직접 연결하는 SRT가 오는 9월 1일부터 정차 운행을 시작한다.]]></description>
+      <source>웅상뉴스</source>
+      <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=306&idx=44444</guid>
+    </item>
     <item>
       <title><![CDATA[양산 41도까지 치솟아 ‘살인적 폭염’…도심 전체가 거대한 찜통]]></title>
       <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=260&idx=44443</link>
@@ -4401,14 +4409,6 @@ Exercise,야외 기동훈련)를 실시하였다고 밝혔습니다.   이번 �
 13,658,000원을 회의 ...]]></description>
       <source>양산TV</source>
       <guid>http://www.oratory.co.kr/news/view.html?section=86&category=90&no=2346</guid>
-    </item>
-    <item>
-      <title><![CDATA[서창동, 노인일자리사업 보이스피싱 예방교육 실시]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=316&idx=44376</link>
-      <pubDate>Fri, 26 Jun 2026 03:14:04 GMT</pubDate>
-      <description><![CDATA[양산시 서창동행정복지센터(동장 송봉현)는 26일 양산경찰서와 연계해 노인일자리사업]]></description>
-      <source>웅상뉴스</source>
-      <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=316&idx=44376</guid>
     </item>
   </channel>
 </rss>
