@@ -4,7 +4,24 @@
     <title>양산 통합 뉴스</title>
     <link>https://born520.github.io/ysrss/</link>
     <description>양산 지역 뉴스 통합 피드</description>
-    <lastBuildDate>Tue, 18 Aug 2026 07:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 08:26:13 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[<웅상신문 창간 14주년 인사말>]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=284&idx=44468</link>
+      <pubDate>Tue, 18 Aug 2026 04:54:17 GMT</pubDate>
+      <description><![CDATA[존경하는 독자 여러분, 그리고 웅상과 양산 시민 여러분.]]></description>
+      <source>웅상뉴스</source>
+      <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=284&idx=44468</guid>
+    </item>
+    <item>
+      <title><![CDATA[[인터뷰] 이용식 양산시복지재단 초대 대표이사,“복지 문턱은 낮추고 대응은 빠르게…시민 삶의 든든한 울타리로”]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=268&idx=44467</link>
+      <pubDate>Sat, 15 Aug 2026 09:22:37 GMT</pubDate>
+      <description><![CDATA[양산시복지재단이 새로운 전환점을 맞았다. 시장 당연직 이사장 체제에서 대표이사 책임경영 체제로 전환하면서 이용식 초대 대표이사가 그 
+첫걸음을 맡았다.]]></description>
+      <source>웅상뉴스</source>
+      <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=268&idx=44467</guid>
+    </item>
     <item>
       <title><![CDATA[˝양산의 새로운 미래를 함께 만들어가는 든든한 지역언론으로˝]]></title>
       <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=284&idx=44466</link>
@@ -4902,22 +4919,6 @@ PD로 입사한다. 역사전문 PD로서 다양한 역사 프로그램을 만�
       <description><![CDATA[6·3 지방선거 더불어민주당 양산시장 후보로 조문관 민주연구원 부원장이]]></description>
       <source>웅상뉴스</source>
       <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&idx=44234</guid>
-    </item>
-    <item>
-      <title><![CDATA[내가 뽑고 싶은 정치인은]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=307&idx=44236</link>
-      <pubDate>Sun, 19 Apr 2026 08:54:26 GMT</pubDate>
-      <description><![CDATA[6.3지방선거가 불과 40여 일 남짓, 이제부터 본선이 시작되는 선거판은]]></description>
-      <source>웅상뉴스</source>
-      <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=307&idx=44236</guid>
-    </item>
-    <item>
-      <title><![CDATA[˝시민들의 삶이 달라집니다. 양산의 내일이 달라집니다˝]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&idx=44235</link>
-      <pubDate>Sun, 19 Apr 2026 02:43:19 GMT</pubDate>
-      <description><![CDATA[시민 여러분. 더불어민주당 당원 동지 여러분. 양산시장 후보 조문관 감사 인사 올립니다.]]></description>
-      <source>웅상뉴스</source>
-      <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=259&idx=44235</guid>
     </item>
   </channel>
 </rss>
