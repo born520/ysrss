@@ -4,7 +4,15 @@
     <title>양산 통합 뉴스</title>
     <link>https://born520.github.io/ysrss/</link>
     <description>양산 지역 뉴스 통합 피드</description>
-    <lastBuildDate>Sat, 07 Nov 2026 06:26:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 07:26:11 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[서창초 홍서아 학생, 전국학생과학발명품경진대회 ‘특상’ 쾌거]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=260&idx=44595</link>
+      <pubDate>Sat, 07 Nov 2026 04:05:42 GMT</pubDate>
+      <description><![CDATA[웅상지역 서창초등학교 4학년 홍서아 학생이 전국의 초·중·고등학]]></description>
+      <source>웅상뉴스</source>
+      <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=260&idx=44595</guid>
+    </item>
     <item>
       <title><![CDATA[지역상권 활력기대 '물금백호랑 온(ON)골목 페스타']]></title>
       <link>http://www.ysnewspark.com/news/articleView.html?idxno=17236</link>
@@ -715,14 +723,6 @@
       <guid>http://www.ysnewspark.com/news/articleView.html?idxno=17221</guid>
     </item>
     <item>
-      <title><![CDATA[행복나무재가노인복지센터, 어르신의 행복한 노후 위한 맞춤형 방문요양서비스 제공]]></title>
-      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=278&idx=44583</link>
-      <pubDate>Mon, 02 Nov 2026 05:44:50 GMT</pubDate>
-      <description><![CDATA[고령화가 빠르게 진행되면서 어르신들의 건강하고 안정적인 노후생활을 위한 돌봄서비스의]]></description>
-      <source>웅상뉴스</source>
-      <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=278&idx=44583</guid>
-    </item>
-    <item>
       <title><![CDATA[양산시 체육회장 선거, 후보자등록 설명회 개최]]></title>
       <link>http://www.oratory.co.kr/news/view.html?section=1&category=3&no=2515</link>
       <pubDate>Mon, 02 Nov 2026 05:36:39 GMT</pubDate>
@@ -732,6 +732,14 @@
 ▲ 후보자가 할 수 있는 선거운동 방법에 관한 사항 ▲ 제한·금지규정 및 위법행위 예방·단속 방향 등 입후보예정자 등이 꼭 알아야 ...]]></description>
       <source>양산TV</source>
       <guid>http://www.oratory.co.kr/news/view.html?section=1&category=3&no=2515</guid>
+    </item>
+    <item>
+      <title><![CDATA[행복나무재가노인복지센터, 어르신의 행복한 노후 위한 맞춤형 방문요양서비스 제공]]></title>
+      <link>http://www.ungsangnews.com/default/index_view_page.php?part_idx=278&idx=44583</link>
+      <pubDate>Mon, 02 Nov 2026 04:20:00 GMT</pubDate>
+      <description><![CDATA[고령화가 빠르게 진행되면서 어르신들의 건강하고 안정적인 노후생활을 위한 돌봄서비스의]]></description>
+      <source>웅상뉴스</source>
+      <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=278&idx=44583</guid>
     </item>
     <item>
       <title><![CDATA[안유솜 한국무용가, ‘유솜;스튜디오’개원… 춤과 워킹으로 새로운 도전의 무대 열다]]></title>
@@ -4381,17 +4389,6 @@ Dogs'이제 사회는 끊임]]></description>
       <description><![CDATA[양산시가 지속적인 인구 증가와 급증하는 행정수요에 적기 대응하기 위해 중앙정부를 상대로 기준인건비 증액을 위한 총력 행보에 나섰다.]]></description>
       <source>웅상뉴스</source>
       <guid>http://www.ungsangnews.com/default/index_view_page.php?part_idx=284&idx=44544</guid>
-    </item>
-    <item>
-      <title><![CDATA[경남도“누리호5차 성공 축하]]></title>
-      <link>http://www.oratory.co.kr/news/view.html?section=115&category=118&no=2486</link>
-      <pubDate>Thu, 08 Oct 2026 04:40:19 GMT</pubDate>
-      <description><![CDATA[경남도“누리호5차 성공 축하- 경남의 기술로 우주 도약 뒷받침- 설계부터 발사까지11개 경남 기업 참여- 경남도,도내 기업이 우주산업 
-핵심으로 성장하도록 적극 지원 강화   경상남도(도지사 박완수)는 대한민국 독자 우주발사체인‘누리호5차 발사’성공에 대해 대한민국 우주 
-영토가 또 한 번 넓어지는 역사적인 순간이라며, 330만 도민과 함께 누리호5차 발사의 성공을 진심으로 축하한다고 밝혔습니다.   
-또한, 이번 발사 성공의 바탕에는 경남의 뛰어난 우주항공 제조 기술력이 있었다며, 발사체 조립부터 핵심 부품...]]></description>
-      <source>양산TV</source>
-      <guid>http://www.oratory.co.kr/news/view.html?section=115&category=118&no=2486</guid>
     </item>
   </channel>
 </rss>
